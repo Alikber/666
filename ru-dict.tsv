@@ -1,0 +1,2543 @@
+A background prompt could not be sent	Не удалось отправить фоновый запрос
+Abort	Прервать
+About	О программе
+About saved history	О сохранённой истории
+Accent	Акцент
+Accent color	Акцентный цвет
+Accent color hue	Оттенок акцентного цвета
+Accept	Принять
+Access	Доступ
+Access token	Токен доступа
+Accessibility	Специальные возможности
+Accessibility data	Данные специальных возможностей
+Account	Аккаунт
+Account name	Имя аккаунта
+Account settings	Настройки аккаунта
+ACP provider configured	Провайдер ACP настроен
+ACP provider disabled	Провайдер ACP отключён
+ACP Registry	Реестр ACP
+ACP session deleted	Сессия ACP удалена
+ACP source	Источник ACP
+Action	Действие
+Action failed	Не удалось выполнить действие
+Action unavailable	Действие недоступно
+Actions	Действия
+Actions not saved	Действия не сохранены
+Activating installation	Активация установки
+Active	Активно
+Active gh account	Активный аккаунт gh
+Add	Добавить
+Add a CLIProxyAPI hub	Добавить хаб CLIProxyAPI
+Add a computer	Добавить компьютер
+Add a project to start	Добавьте проект, чтобы начать
+Add a project, then capture the window again.	Добавьте проект и снова сделайте снимок окна.
+Add a theme	Добавить тему
+Add action	Добавить действие
+Add an optional comment...	Добавьте необязательный комментарий...
+Add argument	Добавить аргумент
+Add Cloud connection	Добавить облачное подключение
+Add environment	Добавить среду
+Add existing project	Добавить существующий проект
+Add hub	Добавить хаб
+Add keybinding	Добавить сочетание клавиш
+Add project	Добавить проект
+Add project starts in	Новые проекты создаются в
+Add provider	Добавить провайдера
+Add route	Добавить маршрут
+Add theme	Добавить тему
+Add to agent	Добавить агенту
+Add to chat	Добавить в чат
+Add variable	Добавить переменную
+Added to the composer	Добавлено в поле ввода
+Adds a comment	Добавляет комментарий
+Advanced	Дополнительно
+Agent	Агент
+Agent browser access	Доступ агента к браузеру
+Agent computer access	Доступ агента к компьютеру
+Agent device access	Доступ агента к устройствам
+Agent providers	Провайдеры агентов
+Agent session will restart	Сессия агента будет перезапущена
+Agent sign-in	Вход агента
+Alert text	Текст предупреждения
+All	Все
+All checks have passed	Все проверки пройдены
+All commits	Все коммиты
+All environments	Все среды
+All projects	Все проекты
+All providers	Все провайдеры
+All servers	Все серверы
+Allow	Разрешить
+Allow agent control	Разрешить управление агентом
+Allow agents to control this Mac?	Разрешить агентам управлять этим Mac?
+Allow all accounts	Разрешить все аккаунты
+Allow commands and edits without prompts.	Разрешить команды и правки без запросов.
+Allow computer access	Разрешить доступ к компьютеру
+Allow GNOME extensions	Разрешить расширения GNOME
+Allow retry	Разрешить повтор
+Allow snapshots	Разрешить снимки
+Already available locally	Уже доступно локально
+Already installed	Уже установлено
+Always	Всегда
+Always allow this session	Всегда разрешать в этой сессии
+Amber	Янтарный
+Animate captured windows into your draft.	Анимировать добавление снятых окон в черновик.
+Annotation attached to draft	Пометка прикреплена к черновику
+Anyone on the web	Любой в интернете
+API estimate excludes	Оценка API не включает
+API key	Ключ API
+API token	Токен API
+App	Приложение
+Appearance	Внешний вид
+Apply instructions to all	Применить инструкции ко всем
+Apply saved model and thinking to a draft	Применить сохранённые модель и размышления к черновику
+Apply saved selection	Применить сохранённый выбор
+Apply to	Применить к
+Applying settings for	Применяются настройки для
+Approval	Подтверждение
+Approve	Одобрить
+Approved	Одобрено
+Aqua	Бирюзовый
+Archive	Архив
+Archive chat	Архивировать чат
+Archive thread	Архивировать тред
+Archived	В архиве
+Archived cloud chats	Архивные облачные чаты
+Archived thread action failed	Не удалось выполнить действие с архивным тредом
+Archived threads	Архивные треды
+Arguments	Аргументы
+Artifacts and logs	Артефакты и логи
+Ask before commands and file changes.	Спрашивать перед командами и изменением файлов.
+Ask for approval	Запрашивать подтверждение
+Asked in a thread	Задан в треде
+At a time	По очереди
+Atlassian account email	Электронная почта аккаунта Atlassian
+Attachments	Вложения
+Attempted path	Попытка по пути
+Authenticated	Авторизован
+Authenticated as	Авторизован как
+Authentication method	Способ аутентификации
+Authentication request expired	Срок запроса аутентификации истёк
+Author	Автор
+Authored	Создано автором
+Authorized clients	Авторизованные клиенты
+Auto	Авто
+Auto-approve edits, ask before other actions.	Автоодобрение правок, остальные действия с запросом.
+Auto-compact after	Автосжатие после
+Automatic	Автоматически
+Automatic capture isn't available	Автоматический снимок недоступен
+Automatic pricing after saving	Автоматические цены после сохранения
+Automatic worktree cleanup	Автоматическая очистка рабочих деревьев
+Automatically pull	Автоматически подтягивать
+Auto-resume limited threads	Автопродолжение ограниченных тредов
+Auto-settle inactive threads	Автозавершение неактивных тредов
+Auto-settle merged threads	Автозавершение влитых тредов
+Available	Доступно
+Average	В среднем
+Await a returned Promise. Defaults to true.	Дождаться возвращаемого Promise. По умолчанию true.
+Awaiting action	Ожидает действия
+Awaiting Input	Ожидает ввода
+Awaiting review	Ожидает проверки
+Back	Назад
+Back to pull requests	Назад к pull request'ам
+Backend + agents	Бэкенд и агенты
+Backend added	Бэкенд добавлен
+Background	Фон
+Background activity	Фоновая активность
+Background task failed	Не удалось выполнить фоновую задачу
+Base	Основа
+Base branch	Базовая ветка
+Behavior	Поведение
+Behind upstream. Pull/rebase first.	Отстаёт от upstream. Сначала выполните pull/rebase.
+Best rated	Лучшие по рейтингу
+Binary path	Путь к бинарному файлу
+Bitbucket credentials	Учётные данные Bitbucket
+Blank profile	Пустой профиль
+Blocked on me	Ждёт меня
+Blue	Синий
+Blue & orange	Синий и оранжевый
+Blue / yellow (tritanopia)	Синий / жёлтый (тританопия)
+Books	Книги
+Border	Граница
+Brain	Мозг
+Branch	Ветка
+Branch copied	Ветка скопирована
+Branch name copied	Название ветки скопировано
+Branch naming instructions	Инструкции по именованию веток
+Branch prefix	Префикс ветки
+Brand & content	Бренд и контент
+Breakdown	Детализация
+Browse a folder on disk	Выбрать папку на диске
+Browser	Браузер
+Browser connection was refused.	Подключение браузера отклонено.
+Browser options	Параметры браузера
+Browser profiles	Профили браузера
+Browser window	Окно браузера
+Build	Сборка
+Cache hit	Попадание в кэш
+Cache read	Чтение из кэша
+Cache savings	Экономия на кэше
+Cache write	Запись в кэш
+Cached input	Кэшированный ввод
+Calendar	Календарь
+Camera	Камера
+Cancel	Отмена
+Cancel dictation	Отменить диктовку
+Cancel installation	Отменить установку
+Cancelled	Отменено
+Cannot add project	Не удаётся добавить проект
+Capture animations	Анимации снимков
+Capture flash	Вспышка при снимке
+Capture is ready	Снимок готов
+Capture shortcut	Сочетание клавиш для снимка
+Capture sound	Звук снимка
+Capture the window you're using.	Снять окно, с которым вы работаете.
+Category	Категория
+Caution	Осторожно
+Change accent color	Изменить акцентный цвет
+Change account	Сменить аккаунт
+Change appearance	Изменить внешний вид
+Change environment settings	Изменить настройки среды
+Change in Connections	Изменить в разделе «Подключения»
+Change labels	Изменить метки
+Change managed tunnel connectivity.	Изменить подключение управляемого туннеля.
+Change shortcut	Изменить сочетание клавиш
+Change source control	Изменить систему контроля версий
+Change theme	Сменить тему
+Changed	Изменено
+Changes	Изменения
+Changes can be cleanly merged.	Изменения можно чисто слить.
+Changes requested	Запрошены изменения
+Chart	График
+Chat history	История чатов
+Chat move failed	Не удалось переместить чат
+Chat prepared. No agent has started.	Чат подготовлен. Агент не запущен.
+Chat sync unavailable.	Синхронизация чатов недоступна.
+Chat sync unavailable. Retry	Синхронизация чатов недоступна. Повторить
+ChatGPT account	Аккаунт ChatGPT
+ChatGPT shared usage	Общее использование ChatGPT
+ChatGPT sign-in couldn't finish	Не удалось завершить вход в ChatGPT
+ChatGPT usage limit reached	Достигнут лимит использования ChatGPT
+Check capture access	Проверить доступ к снимкам
+Check details are out of date.	Данные проверки устарели.
+Check out feature branch & continue	Переключиться на ветку функции и продолжить
+Check out this pull request	Переключиться на этот pull request
+Check simulator support	Проверить поддержку симулятора
+Check status	Проверить статус
+Checked out, but not on the latest commits	Переключено, но без последних коммитов
+Checked out, but the thread stayed where it was	Переключено, но тред остался на месте
+Checked unavailable	Проверка недоступна
+Checking	Проверка
+Checking current installation	Проверка текущей установки
+Checking file access...	Проверка доступа к файлам...
+Checking the proxy and the firewall	Проверка прокси и брандмауэра
+Checking the sign-in request	Проверка запроса на вход
+Checking your connection	Проверка подключения
+Checking...	Проверка...
+Checkout path	Путь переключения
+Checkout ready	Переключение готово
+Checkouts	Переключения
+Checks	Проверки
+Child Processes	Дочерние процессы
+Choices	Варианты
+Choose a chat	Выберите чат
+Choose a chat explicitly	Выберите чат явно
+Choose a color	Выберите цвет
+Choose a connection	Выберите подключение
+Choose a project first	Сначала выберите проект
+Choose a project to reopen this workspace tab.	Выберите проект, чтобы снова открыть эту вкладку.
+Choose a source draft	Выберите исходный черновик
+Choose a window each time	Каждый раз выбирать окно
+Choose an agent	Выберите агента
+Choose an icon, emoji, or monogram.	Выберите значок, эмодзи или монограмму.
+Choose file	Выбрать файл
+Choose icon	Выбрать значок
+Choose mode	Выбрать режим
+Choose model	Выбрать модель
+Choose models and a base branch	Выберите модели и базовую ветку
+Choose project	Выбрать проект
+Choose project icon	Выбрать значок проекта
+Choose the original provider connection	Выберите исходное подключение провайдера
+Choose the sound played when capture starts.	Выберите звук, который играет при начале снимка.
+Choose your projects	Выберите ваши проекты
+Choose your shortcut	Выберите сочетание клавиш
+Christmas	Рождество
+Clear	Очистить
+Clear cache	Очистить кэш
+Clear cookies	Удалить cookie
+Clear cookies and cache	Удалить cookie и кэш
+Clear data	Очистить данные
+Clear goal	Сбросить цель
+Clear search	Очистить поиск
+Click	Клик
+Click the citation to try again.	Нажмите на цитату, чтобы повторить попытку.
+Client label (optional)	Название клиента (необязательно)
+Client not supported	Клиент не поддерживается
+Client scopes	Области клиента
+Clipboard API unavailable.	Clipboard API недоступен.
+Clone failed	Не удалось клонировать
+Clone unavailable	Клонирование недоступно
+Close	Закрыть
+Close all	Закрыть все
+Close device panel	Закрыть панель устройств
+Close others	Закрыть остальные
+Close tab	Закрыть вкладку
+Close to the right	Закрыть справа
+Closed	Закрыто
+Cloud chat	Облачный чат
+Cloud chat history	История облачных чатов
+Cloud connection	Облачное подключение
+Cloud connection enabled	Облачное подключение включено
+Cloud connection settings	Настройки облачного подключения
+Cloud history	Облачная история
+Cloud sync	Облачная синхронизация
+Code	Код
+Code font	Шрифт кода
+Code font size	Размер шрифта кода
+Code surface	Поверхность кода
+Codex runtime	Среда выполнения Codex
+Collapse composer on scroll	Сворачивать поле ввода при прокрутке
+Collapsed	Свёрнуто
+Collection time	Время сбора
+Color	Цвет
+Color filter	Цветовой фильтр
+Color scheme	Цветовая схема
+Colors	Цвета
+Colors & themes	Цвета и темы
+Comfortable (default)	Комфортная (по умолчанию)
+Coming Soon	Скоро
+Command	Команда
+Comment	Комментарий
+Commit	Коммит
+Commit & push	Коммит и push
+Commit & push to default ref?	Коммит и push в ветку по умолчанию?
+Commit message (optional)	Сообщение коммита (необязательно)
+Commit on new branch	Коммит в новую ветку
+Communication link	Ссылка для связи
+Compact context	Сжать контекст
+Completed	Завершено
+Component	Компонент
+Composer	Поле ввода
+Composer context	Контекст поля ввода
+Computer	Компьютер
+Computers to set up	Компьютеры для настройки
+Condition	Условие
+Config	Конфигурация
+Configure	Настроить
+Configure background activity	Настроить фоновую активность
+Configure manually	Настроить вручную
+Confirm	Подтвердить
+Confirm action	Подтвердить действие
+Confirm Full access	Подтвердить полный доступ
+Confirmations	Подтверждения
+Confirming the dev server is running	Проверка, что сервер разработки запущен
+Connect	Подключить
+Connect another ChatGPT account	Подключить ещё один аккаунт ChatGPT
+Connect to a computer running DeepAI Code	Подключиться к компьютеру с DeepAI Code
+Connect to an environment to import cookies	Подключитесь к среде, чтобы импортировать cookie
+Connect to DeepAI to open this chat.	Подключитесь к DeepAI, чтобы открыть этот чат.
+Connect your agents	Подключите ваших агентов
+Connect your computers	Подключите ваши компьютеры
+Connected	Подключено
+Connecting	Подключение
+Connecting your terminal	Подключение терминала
+Connection	Подключение
+Connection failed	Не удалось подключиться
+Contacts	Контакты
+Context	Контекст
+Context handoff	Передача контекста
+Context usage has not been reported yet.	Данных об использовании контекста пока нет.
+Context Window	Контекстное окно
+Context window indicator	Индикатор контекстного окна
+Continue	Продолжить
+Continue here	Продолжить здесь
+Continue in new chat	Продолжить в новом чате
+Continue threads after restarts	Продолжать треды после перезапусков
+Continue with ChatGPT	Продолжить через ChatGPT
+Control previews	Управление превью
+Conversation fork	Ответвление диалога
+Copied	Скопировано
+Copied!	Скопировано!
+Copy	Копировать
+Copy archive context into a new chat draft	Скопировать контекст архива в черновик нового чата
+Copy as CSV	Копировать как CSV
+Copy as Markdown	Копировать как Markdown
+Copy branch name	Копировать название ветки
+Copy code	Копировать код
+Copy code only	Копировать только код
+Copy command	Копировать команду
+Copy full path	Копировать полный путь
+Copy ID	Копировать ID
+Copy image	Копировать изображение
+Copy into empty draft	Скопировать в пустой черновик
+Copy link	Копировать ссылку
+Copy MCP URL	Копировать MCP URL
+Copy mention	Копировать упоминание
+Copy message	Копировать сообщение
+Copy path	Копировать путь
+Copy relative path	Копировать относительный путь
+Copy sign-in link	Копировать ссылку для входа
+Copy Thread ID	Копировать ID треда
+Copy trace ID	Копировать ID трассировки
+Copy URL	Копировать URL
+Cost	Стоимость
+Cost by speed	Стоимость по скорости
+Cost by type	Стоимость по типам
+Could not add backend	Не удалось добавить бэкенд
+Could not add provider instance	Не удалось добавить экземпляр провайдера
+Could not add WSL project	Не удалось добавить проект WSL
+Could not capture the picked element	Не удалось захватить выбранный элемент
+Could not change update track	Не удалось сменить канал обновлений
+Could not change WSL backend	Не удалось сменить бэкенд WSL
+Could not check for updates	Не удалось проверить обновления
+Could not choose environment	Не удалось выбрать среду
+Could not close tab	Не удалось закрыть вкладку
+Could not confirm signal	Не удалось подтвердить сигнал
+Could not connect environment	Не удалось подключить среду
+Could not continue authentication	Не удалось продолжить аутентификацию
+Could not copy checkout command	Не удалось скопировать команду переключения
+Could not copy MCP URL	Не удалось скопировать MCP URL
+Could not copy plan	Не удалось скопировать план
+Could not copy thread ID	Не удалось скопировать ID треда
+Could not copy trace ID	Не удалось скопировать ID трассировки
+Could not copy update command	Не удалось скопировать команду обновления
+Could not create pairing URL	Не удалось создать URL сопряжения
+Could not create the GitHub repository	Не удалось создать репозиторий GitHub
+Could not create the project	Не удалось создать проект
+Could not create thread	Не удалось создать тред
+Could not delete action	Не удалось удалить действие
+Could not delete chat	Не удалось удалить чат
+Could not delete provider instance	Не удалось удалить экземпляр провайдера
+Could not deregister server	Не удалось отменить регистрацию сервера
+Could not disable Tailscale HTTPS	Не удалось отключить Tailscale HTTPS
+Could not disconnect server	Не удалось отключить сервер
+Could not download update	Не удалось скачать обновление
+Could not finish setup	Не удалось завершить настройку
+Could not install update	Не удалось установить обновление
+Could not load Cloud connection environments	Не удалось загрузить среды облачного подключения
+Could not load downloads.	Не удалось загрузить загрузки.
+Could not load mobile clients	Не удалось загрузить мобильные клиенты
+Could not load pull request activity	Не удалось загрузить активность pull request
+Could not load scheduled tasks	Не удалось загрузить запланированные задачи
+Could not move chat	Не удалось переместить чат
+Could not open a fresh composer	Не удалось открыть новое поле ввода
+Could not open a thread	Не удалось открыть тред
+Could not open a thread for the checkout	Не удалось открыть тред для переключения
+Could not open image picker	Не удалось открыть выбор изображения
+Could not open preview	Не удалось открыть превью
+Could not open System Settings	Не удалось открыть системные настройки
+Could not open the cited response	Не удалось открыть ответ, на который ссылается цитата
+Could not post the comment	Не удалось опубликовать комментарий
+Could not prepare the pull request checkout	Не удалось подготовить переключение на pull request
+Could not reconnect environment	Не удалось переподключить среду
+Could not remove backend	Не удалось удалить бэкенд
+Could not reopen view	Не удалось снова открыть вид
+Could not reset provider instance	Не удалось сбросить экземпляр провайдера
+Could not restart resource monitor	Не удалось перезапустить монитор ресурсов
+Could not revoke client access	Не удалось отозвать доступ клиента
+Could not revoke other clients	Не удалось отозвать остальные клиенты
+Could not revoke pairing link	Не удалось отозвать ссылку сопряжения
+Could not rotate webhook URL	Не удалось сменить URL вебхука
+Could not save file	Не удалось сохранить файл
+Could not save GitHub routing permission	Не удалось сохранить разрешение маршрутизации GitHub
+Could not save plan	Не удалось сохранить план
+Could not save the comment	Не удалось сохранить комментарий
+Could not save the description	Не удалось сохранить описание
+Could not save your theme	Не удалось сохранить вашу тему
+Could not send feedback to OpenAI	Не удалось отправить отзыв в OpenAI
+Could not send the files to the page	Не удалось передать файлы на страницу
+Could not set up Tailscale HTTPS	Не удалось настроить Tailscale HTTPS
+Could not start implementation thread	Не удалось начать тред реализации
+Could not start update download	Не удалось начать скачивание обновления
+Could not stash this prompt	Не удалось отложить этот запрос
+Could not stop subagent	Не удалось остановить субагента
+Could not stop workflow	Не удалось остановить процесс
+Could not switch tabs	Не удалось переключить вкладки
+Could not update Cloud connection	Не удалось обновить облачное подключение
+Could not update network access	Не удалось обновить сетевой доступ
+Could not update pin	Не удалось обновить закрепление
+Could not update provider instance	Не удалось обновить экземпляр провайдера
+Could not update scheduled task	Не удалось обновить запланированную задачу
+Could not update viewed files	Не удалось обновить просмотренные файлы
+Couldn't check snapshots. Try again to continue.	Не удалось проверить снимки. Повторите, чтобы продолжить.
+Couldn't load the WSL backend state.	Не удалось загрузить состояние бэкенда WSL.
+Couldn't save theme selection	Не удалось сохранить выбор темы
+Couldn't set up the extension	Не удалось настроить расширение
+Count	Количество
+CPU Time	Время CPU
+Create (Enter)	Создать (Enter)
+Create a new link to share from this client.	Создайте новую ссылку, чтобы поделиться с этого клиента.
+Create a new worktree	Создать новое рабочее дерево
+Create a token	Создать токен
+Create pairing link	Создать ссылку сопряжения
+Create private repository on GitHub	Создать приватный репозиторий на GitHub
+Create theme	Создать тему
+Created for these cookies	Создано для этих cookie
+Created thread	Тред создан
+Current	Текущий
+Current CPU	Текущая загрузка CPU
+Current match	Текущее совпадение
+Current thread	Текущий тред
+Current version of the application.	Текущая версия приложения.
+Cursor account	Аккаунт Cursor
+Cursor account usage	Использование аккаунта Cursor
+Cursor API key	Ключ API Cursor
+Cursor Models	Модели Cursor
+Custom	Своё
+Custom Codex home and config directory.	Свой домашний каталог и каталог конфигурации Codex.
+Custom instructions	Свои инструкции
+Custom model prices	Свои цены моделей
+Custom snooze	Своё время откладывания
+Cyan	Голубой
+Daily allowance	Дневной лимит
+Danger	Опасность
+Dark	Тёмная
+Data flow diagram data store	Хранилище данных диаграммы потоков данных
+Database	База данных
+Database storage	Хранилище базы данных
+Date	Дата
+Date and time	Дата и время
+Days	Дней
+Days of inactivity before auto-settle	Дней неактивности до автозавершения
+Debug	Отладка
+Decision-making step	Шаг принятия решения
+Decline	Отклонить
+Declined	Отклонено
+DeepAI community	Сообщество DeepAI
+DeepAI system footprint	Нагрузка DeepAI на систему
+DeepAI usage	Использование DeepAI
+Default	По умолчанию
+Default branch	Ветка по умолчанию
+Default browser profile	Профиль браузера по умолчанию
+Default distro	Дистрибутив по умолчанию
+Default model	Модель по умолчанию
+Default model not saved	Модель по умолчанию не сохранена
+Defaults to the hub's host name	По умолчанию — имя хоста хаба
+Delete	Удалить
+Delete action	Удалить действие
+Delete anyway	Всё равно удалить
+Delete confirmation	Подтверждение удаления
+Delete inactive worktrees	Удалять неактивные рабочие деревья
+Delete merged worktrees	Удалять влитые рабочие деревья
+Delete old browser artifacts	Удалять старые артефакты браузера
+Delete old rotated logs	Удалять старые ротированные логи
+Delete unchanged worktrees	Удалять неизменённые рабочие деревья
+Delete worktrees with deleted threads	Удалять рабочие деревья с удалёнными тредами
+Deregister	Отменить регистрацию
+Deregister server	Отменить регистрацию сервера
+Describe the result and how to verify it.	Опишите результат и как его проверить.
+Describe this pull request	Описать этот pull request
+Description	Описание
+Desktop	Рабочий стол
+Desktop host signals not connected	Сигналы хоста рабочего стола не подключены
+Desktop only	Только рабочий стол
+Destination chat	Чат назначения
+Destination empty chat	Пустой чат назначения
+Destination existing chat	Существующий чат назначения
+Destination new chat	Новый чат назначения
+Details	Подробности
+Determines the markup language of the output.	Определяет язык разметки вывода.
+Device	Устройство
+Device hosts	Хосты устройств
+Device hosts not saved on all environments	Хосты устройств сохранены не во всех средах
+Device hub	Хаб устройств
+Device settings not saved on all environments	Настройки устройств сохранены не во всех средах
+Device text size	Размер текста на устройстве
+Device that runs this provider.	Устройство, на котором работает этот провайдер.
+Device tools	Инструменты устройства
+Device unavailable	Устройство недоступно
+Devices	Устройства
+Dev-server protocol. Defaults to http.	Протокол сервера разработки. По умолчанию http.
+Diagnostics	Диагностика
+Diff	Различия
+Diff options	Параметры сравнения
+Different actions across environments	Разные действия в разных средах
+Dimensions	Размеры
+Direct access storage	Прямой доступ к хранилищу
+Directories	Каталоги
+Disable	Отключить
+Disable extension	Отключить расширение
+Disable Tailscale HTTPS?	Отключить Tailscale HTTPS?
+Disabled	Отключено
+Disabled tasks stay saved but do not run.	Отключённые задачи остаются сохранёнными, но не выполняются.
+Discard draft	Отбросить черновик
+Discard pending line comments	Отбросить ожидающие комментарии к строкам
+Disconnect	Отключить
+Disconnect server	Отключить сервер
+Disk storage	Хранилище на диске
+Dismiss	Закрыть
+Dismiss access help	Закрыть подсказку о доступе
+Dismiss question without answering	Закрыть вопрос без ответа
+Dismiss until provider status changes	Скрыть, пока не изменится статус провайдера
+Display name	Отображаемое имя
+Displays the mobile sidebar.	Показывает мобильную боковую панель.
+Divided process shape	Фигура процесса с делением
+Do not import projects	Не импортировать проекты
+Docs	Документация
+Done	Готово
+Download	Скачать
+Download and install	Скачать и установить
+Download as markdown	Скачать как markdown
+Downloading relay client	Загрузка клиента ретрансляции
+Downloads	Загрузки
+Draft	Черновик
+Drafts only	Только черновики
+Drags one element and drops it onto another.	Перетаскивает один элемент на другой.
+Driver	Драйвер
+Duplicate theme	Дублировать тему
+Duration	Длительность
+Edit	Изменить
+Edit automation	Изменить автоматизацию
+Edit comment	Изменить комментарий
+Edit environment preferences and keybindings.	Изменить настройки среды и сочетания клавиш.
+Edit from here	Изменить отсюда
+Edit from here?	Изменить отсюда?
+Edit goal	Изменить цель
+Edit name and options	Изменить имя и параметры
+Edit theme	Изменить тему
+Edit workspace files and save plans to disk.	Править файлы рабочей области и сохранять планы на диск.
+Editor opening is unavailable.	Открытие редактора недоступно.
+Electron main process	Основной процесс Electron
+Emerald	Изумрудный
+Emoji	Эмодзи
+Enable Antigravity	Включить Antigravity
+Enable subagents	Включить субагентов
+Enable the device hub	Включить хаб устройств
+Enable the extension	Включить расширение
+Enabled	Включено
+Encoding	Кодировка
+Enter a backend host and pairing code.	Введите хост бэкенда и код сопряжения.
+Enter a port from 1 to 65535.	Введите порт от 1 до 65535.
+Enter a workspace path	Введите путь к рабочей области
+Enter code	Введите код
+Enter manually	Ввести вручную
+Environment	Среда
+Environment disconnected	Среда отключена
+Environment icon	Значок среды
+Environment unavailable	Среда недоступна
+Environments	Среды
+Error	Ошибка
+Error report	Отчёт об ошибке
+Event log	Журнал событий
+Every interval	Каждый интервал
+Everything outside code blocks and the terminal.	Всё за пределами блоков кода и терминала.
+Exact context to copy	Точный контекст для копирования
+Excluded	Исключено
+Executable name or path on this environment.	Имя или путь исполняемого файла в этой среде.
+Executable override	Переопределение исполняемого файла
+Existing profile	Существующий профиль
+Expanded	Развёрнуто
+Export theme file	Экспортировать файл темы
+Extension installed	Расширение установлено
+Extra High	Очень высокий
+Extra large	Очень крупный
+Extraction process	Процесс извлечения
+Failed	Ошибка
+Failed to add project	Не удалось добавить проект
+Failed to archive chat	Не удалось архивировать чат
+Failed to archive thread	Не удалось архивировать тред
+Failed to archive threads	Не удалось архивировать треды
+Failed to copy	Не удалось скопировать
+Failed to copy branch	Не удалось скопировать ветку
+Failed to copy branch name	Не удалось скопировать название ветки
+Failed to copy mention	Не удалось скопировать упоминание
+Failed to copy path	Не удалось скопировать путь
+Failed to copy PR link	Не удалось скопировать ссылку на PR
+Failed to copy thread ID	Не удалось скопировать ID треда
+Failed to create and switch ref.	Не удалось создать ветку и переключиться на неё.
+Failed to delete thread	Не удалось удалить тред
+Failed to delete threads	Не удалось удалить треды
+Failed to open project	Не удалось открыть проект
+Failed to pin thread	Не удалось закрепить тред
+Failed to regenerate thread title	Не удалось пересоздать название треда
+Failed to regenerate thread titles	Не удалось пересоздать названия тредов
+Failed to remove project	Не удалось удалить проект
+Failed to rename project	Не удалось переименовать проект
+Failed to rename thread	Не удалось переименовать тред
+Failed to save project actions	Не удалось сохранить действия проекта
+Failed to settle thread	Не удалось завершить тред
+Failed to snooze thread	Не удалось отложить тред
+Failed to switch checkout	Не удалось переключить checkout
+Failed to switch ref.	Не удалось переключить ref.
+Failed to unarchive thread	Не удалось вернуть тред из архива
+Failed to unpin thread	Не удалось открепить тред
+Failed to un-settle thread	Не удалось вернуть тред в работу
+Failed to update auto-settle	Не удалось обновить автозавершение
+Failed to wake thread	Не удалось разбудить тред
+Failing	Не проходит
+Failures	Сбои
+Fast	Быстро
+Fast Mode	Быстрый режим
+Favorites	Избранное
+Feedback sent to OpenAI	Отзыв отправлен в OpenAI
+File Manager	Файловый менеджер
+File still has unsaved changes	В файле есть несохранённые изменения
+Files	Файлы
+Files and folders	Файлы и папки
+Files downloaded in this app on this computer.	Файлы, скачанные в этом приложении на этом компьютере.
+Fill panel	Заполнить панель
+Filter by host	Фильтр по хосту
+Filter by involvement	Фильтр по участию
+Filter by provider	Фильтр по провайдеру
+Filter by state	Фильтр по состоянию
+Filter colors	Цвета фильтра
+Filter models	Фильтр моделей
+Filters	Фильтры
+Find in current thread	Найти в текущем треде
+Find in thread	Найти в треде
+Find open-source themes from Open VSX.	Найти темы с открытым кодом в Open VSX.
+Finish later	Закончить позже
+Fix	Исправить
+Flat	Плоский
+Flat view	Плоский вид
+Float device over chat	Поверх чата
+Floating browser preview	Плавающее превью браузера
+Floating device preview	Плавающее превью устройства
+Fold device	Сложить устройство
+Folder or directory	Папка или каталог
+Follow change request templates	Следовать шаблонам запросов на изменения
+Follow-up behavior	Поведение дополнений
+Font smoothing	Сглаживание шрифтов
+Foreground	Передний план
+Fork from this response	Ответвиться от этого ответа
+Fork or join in process flow	Ветвление или слияние в потоке процесса
+Forward	Вперёд
+Foundation	Основа
+From project config	Из конфигурации проекта
+Fuchsia	Фуксия
+Full	Полный
+Full access	Полный доступ
+Full Disk Access	Полный доступ к диску
+GCP location	Локация GCP
+GCP project	Проект GCP
+Gear	Шестерёнка
+Gemini API key	Ключ API Gemini
+Get the beta app	Получить бета-версию приложения
+Git actions	Действия Git
+Git fetch interval	Интервал git fetch
+Git initialization failed	Не удалось инициализировать Git
+GitHub accounts and token	Аккаунты и токен GitHub
+GitHub sharing	Общий доступ GitHub
+Go home	На главную
+Go to file	Перейти к файлу
+Go to source	Перейти к источнику
+Grant	Предоставить
+Granted scopes	Предоставленные области
+Gray	Серый
+Grayscale	Оттенки серого
+Green	Зелёный
+Green / red (deuteranopia)	Зелёный / красный (дейтеранопия)
+Group	Группа
+Grouping rule	Правило группировки
+Hard reload	Полная перезагрузка
+Having trouble signing in?	Не удаётся войти?
+Header	Заголовок
+Headers	Заголовки
+Health check interval	Интервал проверки состояния
+Help	Справка
+Hide drafts	Скрыть черновики
+Hide whitespace changes	Скрыть изменения пробелов
+High	Высокий
+Highlight surface	Поверхность выделения
+Hold mode also quits on two quick presses.	Режим удержания также завершается двумя быстрыми нажатиями.
+Hold webhooks while offline	Удерживать вебхуки в офлайне
+Home	Главная
+Host	Хост
+Host & collection	Хост и коллекция
+Host diagnostics	Диагностика хоста
+Host power monitor	Монитор питания хоста
+Hours	Часов
+How DeepAI handles your information.	Как DeepAI обращается с вашей информацией.
+How should actions be approved?	Как подтверждать действия?
+HTTPS endpoint	Конечная точка HTTPS
+HTTPS port	Порт HTTPS
+Hub URL	URL хаба
+Icons	Значки
+Idea	Идея
+Identity file	Файл идентификации
+Idle	Простой
+Idle host monitor	Монитор простоя хоста
+Implement in a new thread	Реализовать в новом треде
+Import	Импорт
+Import from	Импортировать из
+Import from project config	Импортировать из конфигурации проекта
+Import previous DeepAI chats	Импортировать прежние чаты DeepAI
+Import scripts	Импортировать скрипты
+Important	Важно
+Imported local history	Импортированная локальная история
+Importing cookies	Импорт cookie
+In 1 hour	Через 1 час
+In 3 hours	Через 3 часа
+In a separate worktree	В отдельном рабочем дереве
+In this repository	В этом репозитории
+In use	Используется
+Inaccessible	Недоступно
+In-app notifications	Уведомления в приложении
+Include app text	Включить текст приложения
+Included with DeepAI Code. No download needed.	Входит в DeepAI Code. Скачивать не нужно.
+Includes accounts you connect later.	Включает аккаунты, которые вы подключите позже.
+Increase Contrast	Повысить контрастность
+Indigo	Индиго
+Inherit	Наследовать
+Initializing repository	Инициализация репозитория
+Input	Ввод
+Input disconnected	Ввод отключён
+Inspect managed relay connectivity.	Проверить подключение управляемого ретранслятора.
+Inspect pairing links and authorized clients.	Просмотр ссылок сопряжения и авторизованных клиентов.
+Install and manage Antigravity.	Установка и управление Antigravity.
+Install the extension	Установить расширение
+Install the update, then sign out and back in.	Установите обновление, затем выйдите и войдите снова.
+Installed	Установлено
+Installing relay client	Установка клиента ретрансляции
+Instance ID	ID экземпляра
+Instrumented application I/O	Инструментированный ввод-вывод приложения
+Intel build on Apple Silicon	Сборка для Intel на Apple Silicon
+Interface	Интерфейс
+Interface font	Шрифт интерфейса
+Interface font size	Размер шрифта интерфейса
+Internal storage	Внутреннее хранилище
+Internet and connected apps	Интернет и подключённые приложения
+Interrupt requested	Запрошено прерывание
+Interval	Интервал
+Invalid keybindings configuration	Недопустимая конфигурация сочетаний клавиш
+Invalid provider headers	Недопустимые заголовки провайдера
+Invalid regular expression	Недопустимое регулярное выражение
+Involvement	Участие
+Iris	Ирис
+Issue and revoke credentials for other clients.	Выдача и отзыв учётных данных для других клиентов.
+Its owning chat is still open.	Чат-владелец всё ещё открыт.
+I've added the shortcut	Я добавил сочетание клавиш
+Join Discord	Присоединиться к Discord
+Jump to latest	Перейти к последнему
+Junction point	Точка соединения
+Keep attachments on this machine	Хранить вложения на этом компьютере
+Keep both	Оставить оба
+Keybinding	Сочетание клавиш
+Keybindings	Сочетания клавиш
+Keybindings configuration reloaded successfully.	Конфигурация сочетаний клавиш успешно перезагружена.
+Keybindings updated	Сочетания клавиш обновлены
+Keyboard	Клавиатура
+Kill	Завершить
+Label	Метка
+Label (optional)	Метка (необязательно)
+Labels	Метки
+Landscape	Альбомная
+Landscape left	Альбомная влево
+Landscape right	Альбомная вправо
+Laptop stand	Подставка для ноутбука
+Large	Крупный
+Largest shown	Самый крупный из показанных
+Last selected	Последний выбранный
+Latest Failures	Последние сбои
+Latest turn	Последний ход
+Latitude	Широта
+Launch arguments	Аргументы запуска
+Leave a comment	Оставить комментарий
+Leave empty to auto-generate	Оставьте пустым для автогенерации
+Left	Слева
+Legacy models	Устаревшие модели
+Less often	Реже
+Let's fix capture access	Давайте настроим доступ к снимкам
+Let's try that again	Давайте попробуем ещё раз
+Letters	Буквы
+Letters, digits, '-', or '_'.	Буквы, цифры, '-' или '_'.
+Level	Уровень
+Light	Светлая
+Lightning	Молния
+Lime	Лайм
+Limit what the paired client can do.	Ограничить возможности сопряжённого клиента.
+Limited	Ограничено
+Limited permissions	Ограниченные разрешения
+Limits	Лимиты
+Lined document	Документ в линейку
+Lined process shape	Фигура процесса с линиями
+Link	Ссылка
+Link pull request	Привязать pull request
+Link pull request to a thread	Привязать pull request к треду
+Link pull request to thread	Привязать pull request к треду
+Linked	Привязано
+Linked ChatGPT connection	Связанное подключение ChatGPT
+Linked pull requests	Связанные pull request'ы
+Linked pull requests unavailable	Связанные pull request'ы недоступны
+Literal text to insert.	Буквальный текст для вставки.
+Live process tree	Дерево активных процессов
+Live Processes	Активные процессы
+Load balancing	Балансировка нагрузки
+Load more pull requests	Загрузить ещё pull request'ы
+Loading code...	Загрузка кода...
+Loading folders...	Загрузка папок...
+Loading pull request diff...	Загрузка различий pull request...
+Local ACP	Локальный ACP
+Local ACP command	Команда локального ACP
+Local command	Локальная команда
+Local environment	Локальная среда
+Local folder	Локальная папка
+Local servers	Локальные серверы
+Location	Расположение
+Lock	Заблокировать
+Log out	Выйти
+Logged out of ACP agent	Выход из агента ACP выполнен
+Logical bytes by operation	Логические байты по операциям
+Logical Read	Логическое чтение
+Logical Write	Логическая запись
+London	Лондон
+Longitude	Долгота
+Loop limit step	Шаг ограничения цикла
+Low	Низкий
+Low power mode	Режим энергосбережения
+Maintain environment	Поддерживать среду
+Manage access	Управление доступом
+Manage providers	Управление провайдерами
+Manage relay	Управление ретранслятором
+Manage scheduled tasks	Управление запланированными задачами
+Manage usage	Управление использованием
+Managed relay client	Управляемый клиент ретрансляции
+Management key	Ключ управления
+Manual file operation	Ручная файловая операция
+Manual input step	Шаг ручного ввода
+Manual only	Только вручную
+Manual setup	Ручная настройка
+Manual update required	Требуется ручное обновление
+Map previous chat pin and archive preferences	Перенести закрепления и архив из прежних чатов
+Map to	Сопоставить с
+Mark unread	Отметить непрочитанным
+Match case	Учитывать регистр
+Match whole word	Слово целиком
+Max	Макс
+Max Mem	Макс. память
+Maximum turns (optional)	Максимум ходов (необязательно)
+MCP URL copied	MCP URL скопирован
+Media library	Медиатека
+Media unavailable	Медиа недоступны
+Medium	Средний
+Memory	Память
+Mention copied	Упоминание скопировано
+Merge	Слить
+Merge pull request?	Слить pull request?
+Merge readiness	Готовность к слиянию
+Merged	Слито
+Message	Сообщение
+Message surface	Поверхность сообщения
+Message was not sent	Сообщение не отправлено
+Microphone	Микрофон
+Minimal	Минимальный
+Minutes	Минут
+Mixed	Смешанный
+Mobile	Мобильный
+Mobile clients	Мобильные клиенты
+Model	Модель
+Model changed	Модель изменена
+Model ID	ID модели
+Model prices	Цены моделей
+Models	Модели
+Modern	Современная
+Modifier keys held while pressing key.	Клавиши-модификаторы, удерживаемые при нажатии клавиши.
+Monitor overhead	Накладные расходы монитора
+Monogram	Монограмма
+Monospace font	Моноширинный шрифт
+More	Ещё
+More comments could not be loaded	Не удалось загрузить остальные комментарии
+More device actions	Другие действия с устройством
+More matches available. Refine your search.	Есть ещё совпадения. Уточните запрос.
+Most Common Failures	Самые частые сбои
+Most downloaded	Больше всего скачиваний
+Most relevant	Самые подходящие
+Motion	Анимация
+Move down	Вниз
+Move up	Вверх
+Movie	Фильм
+Multiple documents	Несколько документов
+Multiple processes	Несколько процессов
+Music	Музыка
+Muted text	Приглушённый текст
+Name	Имя
+Narrow your search to find more pull requests.	Сузьте поиск, чтобы найти больше pull request'ов.
+Native	Нативный
+Native process monitor	Нативный монитор процессов
+Native sessions	Нативные сессии
+Navigate	Перейти
+Navigation	Навигация
+Network	Сеть
+Network access	Сетевой доступ
+Neutral	Нейтральный
+New	Новое
+New chat	Новый чат
+New keybinding	Новое сочетание клавиш
+New profile	Новый профиль
+New project	Новый проект
+New tab	Новая вкладка
+New task	Новая задача
+New thread	Новый тред
+New thread in current project: Shift+click	Новый тред в текущем проекте: Shift+клик
+New thread in...	Новый тред в...
+New thread without a project	Новый тред без проекта
+New threads	Новые треды
+Newest	Новейшие
+Newest shown	Самый новый из показанных
+Next	Далее
+Next week	На следующей неделе
+Next, choose your shortcut.	Далее выберите сочетание клавиш.
+Nightly needs the beta mobile app	Для Nightly нужно бета-приложение для телефона
+No actions configured.	Действия не настроены.
+No active thread	Нет активного треда
+No active threads found.	Активные треды не найдены.
+No activity in this window.	Нет активности за это время.
+No activity yet.	Активности пока нет.
+No agents yet	Агентов пока нет
+No archived cloud chats.	Нет архивных облачных чатов.
+No authors found	Авторы не найдены
+No checks reported	Проверок нет
+No checks reported.	Проверок нет.
+No Cloud connection environments	Нет сред облачного подключения
+No comments yet.	Комментариев пока нет.
+No compatible agents found	Совместимые агенты не найдены
+No completed turns yet.	Завершённых ходов пока нет.
+No computers linked yet.	Компьютеры пока не подключены.
+No device hosts.	Нет хостов устройств.
+No downloads yet.	Загрузок пока нет.
+No environment selected	Среда не выбрана
+No environments available	Нет доступных сред
+No environments connected.	Нет подключённых сред.
+No events yet.	Событий пока нет.
+No existing Claude Code or Codex projects found.	Проекты Claude Code или Codex не найдены.
+No fonts found.	Шрифты не найдены.
+No hubs configured.	Хабы не настроены.
+No icons found.	Значки не найдены.
+No imported local history yet.	Импортированной локальной истории пока нет.
+No installed editors found	Установленные редакторы не найдены
+No keybindings match your search.	Нет сочетаний клавиш, подходящих под поиск.
+No labels in this view	В этом виде нет меток
+No licenses match that search.	Нет лицензий, подходящих под поиск.
+No limit	Без ограничений
+No linked pull requests	Нет связанных pull request'ов
+No matches.	Совпадений нет.
+No matching languages.	Подходящих языков нет.
+No matching projects.	Подходящих проектов нет.
+No matching refs.	Подходящих ref нет.
+No mobile clients	Нет мобильных клиентов
+No models found	Модели не найдены
+No other projects on this connection	В этом подключении нет других проектов
+No output.	Нет вывода.
+No pairing links or client sessions.	Нет ссылок сопряжения и сессий клиентов.
+No preview for this file	Для этого файла нет превью
+No preview yet	Превью пока нет
+No project	Нет проекта
+No projects in this workspace	В этой рабочей области нет проектов
+No projects yet	Проектов пока нет
+No providers available	Нет доступных провайдеров
+No refs found.	Ref не найдены.
+No requests yet.	Запросов пока нет.
+No retained process samples in this window.	В этом окне нет сохранённых образцов процессов.
+No reviews	Нет ревью
+No saved remote environments	Нет сохранённых удалённых сред
+No scheduled tasks	Нет запланированных задач
+No settings found	Настройки не найдены
+No supported browsers found	Поддерживаемые браузеры не найдены
+No supported open-source themes found	Поддерживаемые темы с открытым кодом не найдены
+No terminal sessions for this thread yet.	Для этого треда пока нет терминальных сессий.
+No text generation providers available.	Нет доступных провайдеров генерации текста.
+No threads yet	Тредов пока нет
+No token cap	Без лимита токенов
+No turn limit	Без лимита ходов
+None	Нет
+Normal	Обычный
+Not authenticated	Не авторизован
+Not connected	Не подключено
+Not connected: message not sent	Нет подключения: сообщение не отправлено
+Not Found	Не найдено
+Not now	Не сейчас
+Note	Заметка
+Nothing stashed yet.	Отложенных запросов пока нет.
+Nothing to preview.	Нечего показывать в превью.
+Notifications	Уведомления
+Object storage bucket	Корзина объектного хранилища
+Objective	Цель
+Ocean	Океан
+Odd shape	Нестандартная фигура
+Off	Выкл
+Offline	Не в сети
+Old account storage file	Старый файл хранилища аккаунта
+Oldest shown	Самый старый из показанных
+Oldest stashed prompt discarded	Самый старый отложенный запрос отброшен
+On pace with the window	В темпе окна
+On webhook	По вебхуку
+One literal argument per row, in launch order.	По одному буквальному аргументу в строке, в порядке запуска.
+One or two letters or numbers.	Одна или две буквы или цифры.
+Only invited people	Только приглашённые
+Open	Открыть
+Open a chat for this project and try again.	Откройте чат для этого проекта и повторите попытку.
+Open a folder or clone a repository	Откройте папку или клонируйте репозиторий
+Open a project to search its files.	Откройте проект, чтобы искать по его файлам.
+Open a surface	Открыть поверхность
+Open all environments	Открыть все среды
+Open an app first.	Сначала откройте приложение.
+Open app	Открыть приложение
+Open attachment on GitHub	Открыть вложение на GitHub
+Open browser	Открыть браузер
+Open chat	Открыть чат
+Open Connections	Открыть «Подключения»
+Open DevTools	Открыть DevTools
+Open diff	Открыть различия
+Open docs	Открыть документацию
+Open draft	Открыть черновик
+Open file in preview browser	Открыть файл в браузере превью
+Open in browser	Открыть в браузере
+Open in default application	Открыть в приложении по умолчанию
+Open in file viewer	Открыть в просмотрщике файлов
+Open in integrated browser	Открыть во встроенном браузере
+Open in panel	Открыть в панели
+Open in system browser	Открыть в системном браузере
+Open keybindings.json	Открыть keybindings.json
+Open links in	Открывать ссылки в
+Open logs folder	Открыть папку логов
+Open prepared chat	Открыть подготовленный чат
+Open preview automatically when this action runs	Автоматически открывать превью при запуске этого действия
+Open project	Открыть проект
+Open provider setup	Открыть настройку провайдера
+Open pull requests	Открытые pull request'ы
+Open settings	Открыть настройки
+Open sign-in page	Открыть страницу входа
+Open source licenses	Лицензии открытого ПО
+Open subagent	Открыть субагента
+Open subagent thread	Открыть тред субагента
+Open tabs	Открытые вкладки
+Open the full diff	Открыть полные различия
+Open the owning chat first	Сначала откройте чат-владелец
+Open thread	Открыть тред
+Open usage	Открыть использование
+Open with	Открыть в
+Open WSL folder	Открыть папку WSL
+Open-source notices are unavailable	Уведомления об открытом ПО недоступны
+Operate tasks	Управление задачами
+Operation	Операция
+Optional	Необязательно
+Optional concise display title.	Необязательный краткий отображаемый заголовок.
+Optional marker shown in the picker.	Необязательная метка в списке выбора.
+Optional weekdays; omit to run every day.	Необязательные дни недели; если не указать, запуск каждый день.
+Options	Параметры
+Options shown in the composer	Параметры в поле ввода
+Or choose from ACP Registry	Или выберите из реестра ACP
+Or paste any emoji	Или вставьте любой эмодзи
+Orange	Оранжевый
+Organization	Организация
+Orientation	Ориентация
+Original session	Исходная сессия
+Other	Другое
+Other folders	Другие папки
+Other Models	Другие модели
+Other ways to connect	Другие способы подключения
+Output	Вывод
+Overall	Всего
+Overlay	Наложение
+Overlay element frames	Рамки элементов наложения
+Overridden by	Переопределено
+Package	Пакет
+Page not found	Страница не найдена
+Page zoom applied to new browser tabs.	Масштаб страницы для новых вкладок браузера.
+Pair with this environment	Сопрячься с этой средой
+Pairing code	Код сопряжения
+Pairing link	Ссылка сопряжения
+Pairing link scopes	Области ссылки сопряжения
+Pairing token	Токен сопряжения
+Pairing with this environment	Сопряжение с этой средой
+Pairing...	Сопряжение...
+Panel animations	Анимации панелей
+Paper tape	Перфолента
+Parent folder	Родительская папка
+Parse Errors	Ошибки разбора
+Partial output retained	Частичный вывод сохранён
+Passed	Пройдено
+Passing	Проходит
+Past 24h	За последние 24 ч
+Paste	Вставить
+Paste a one-time pairing code	Вставьте одноразовый код сопряжения
+Paste a one-time token or pairing secret	Вставьте одноразовый токен или секрет сопряжения
+Paste an emoji	Вставьте эмодзи
+Paste API key	Вставьте ключ API
+Paste the URL from the sign-in tab	Вставьте URL со вкладки входа
+Pasted text is too large for this message	Вставленный текст слишком велик для сообщения
+Pasted text is too large to attach	Вставленный текст слишком велик для вложения
+Path	Путь
+Path copied	Путь скопирован
+Path to the Claude binary used by this instance.	Путь к бинарному файлу Claude, используемому этим экземпляром.
+Path to the Codex binary used by this instance.	Путь к бинарному файлу Codex, используемому этим экземпляром.
+Path to the Grok CLI binary.	Путь к бинарному файлу Grok CLI.
+Path to the OpenCode binary.	Путь к бинарному файлу OpenCode.
+Path to the Pi coding agent binary.	Путь к бинарному файлу агента Pi coding agent.
+Path unavailable	Путь недоступен
+Pause	Пауза
+Pause on battery	Пауза при работе от батареи
+Pause on client low power	Пауза при низком заряде клиента
+Pause on host low power	Пауза при низком заряде хоста
+Pause when host is locked	Пауза при блокировке хоста
+Peak	Пик
+Peak CPU	Пиковая загрузка CPU
+Peak Mem	Пик памяти
+Pending Approval	Ожидает одобрения
+Per 1M tokens	За 1 млн токенов
+Permissions	Разрешения
+Person (circular head above a rounded body)	Человек (круглая голова над закруглённым телом)
+Photos	Фото
+Physical activity	Физическая активность
+Pick a thread to continue	Выберите тред, чтобы продолжить
+Picture	Картинка
+Pin thread	Закрепить тред
+Pink	Розовый
+Pinned	Закреплено
+Plain text	Обычный текст
+Plan	План
+Plan mode	Режим планирования
+Plan ready	План готов
+Plan saved to workspace	План сохранён в рабочую область
+Plan updated	План обновлён
+Planning	Планирование
+Play	Воспроизвести
+Poll host power state while clients are active.	Опрашивать состояние питания хоста, пока клиенты активны.
+Popular	Популярные
+Port	Порт
+Portrait	Книжная
+Positive interval in milliseconds.	Положительный интервал в миллисекундах.
+Power off device	Выключить устройство
+Power source	Источник питания
+PR link copied	Ссылка на PR скопирована
+Prefer	Предпочитать
+Prefix	Префикс
+Preparation or condition step	Шаг подготовки или условия
+Prepare this archive for native resume	Подготовить этот архив для нативного возобновления
+Preparing automatic download	Подготовка автоматического скачивания
+Preparing managed setup.	Подготовка управляемой настройки.
+Preparing pull request thread	Подготовка треда pull request
+Preparing sign-in.	Подготовка входа.
+Preparing the pull request checkout...	Подготовка переключения на pull request...
+Press shortcut	Нажмите сочетание клавиш
+Press your shortcut. Esc cancels.	Нажмите сочетание клавиш. Esc — отмена.
+Preview	Превью
+Preview & diff	Превью и различия
+Preview is desktop-only	Превью доступно только на компьютере
+Preview limited to the first 1 MB	Превью ограничено первым 1 МБ
+Preview media	Медиа превью
+Preview previous settings and drafts	Просмотр прежних настроек и черновиков
+Preview unavailable	Превью недоступно
+Preview URL (optional)	URL превью (необязательно)
+Previous	Предыдущий
+Previous agents	Прежние агенты
+Previous DeepAI chats	Прежние чаты DeepAI
+Previous DeepAI chats on this desktop	Прежние чаты DeepAI на этом компьютере
+Previous project and draft preview	Превью прежних проектов и черновиков
+Previous worktree	Прежнее рабочее дерево
+Priority action	Приоритетное действие
+Private	Приватный
+Proactive panels	Проактивные панели
+Process	Процесс
+Process already exited	Процесс уже завершён
+Process count	Количество процессов
+Process scan	Сканирование процессов
+Processed tokens	Обработано токенов
+Processes	Процессы
+Project	Проект
+Project actions	Действия проекта
+Project config	Конфигурация проекта
+Project config is invalid	Конфигурация проекта недопустима
+Project defaults and overrides	Умолчания и переопределения проекта
+Project grouping	Группировка проектов
+Project is not empty	Проект не пуст
+Project overview	Обзор проекта
+Project scripts	Скрипты проекта
+Project settings	Настройки проекта
+Project source	Источник проекта
+Project title	Название проекта
+Project title cannot be empty	Название проекта не может быть пустым
+Projects	Проекты
+Projects & threads	Проекты и треды
+Prompt	Промпт
+Prompt executed on every scheduled run.	Промпт, выполняемый при каждом запуске по расписанию.
+Prompt font	Шрифт промпта
+Prompt font size	Размер шрифта промпта
+Prompt sent to the agent	Промпт, отправленный агенту
+Protocol	Протокол
+Provider	Провайдер
+Provider default	По умолчанию у провайдера
+Provider deleted, but managed files remain	Провайдер удалён, но управляемые файлы остались
+Provider health interval	Интервал проверки состояния провайдера
+Provider instance added	Экземпляр провайдера добавлен
+Provider settings	Настройки провайдера
+Provider setup is read-only.	Настройка провайдера доступна только для чтения.
+Provider update checks	Проверка обновлений провайдеров
+Providers	Провайдеры
+Public	Публичный
+Publish agent activity	Публиковать активность агента
+Publish failed	Не удалось опубликовать
+Publish repository	Опубликовать репозиторий
+Publish repository...	Опубликовать репозиторий...
+Publish result unavailable.	Результат публикации недоступен.
+Publish this environment	Опубликовать эту среду
+Published to GitHub	Опубликовано на GitHub
+Publishing repository	Публикация репозитория
+Pull failed	Не удалось выполнить pull
+Pull request closed	Pull request закрыт
+Pull request description	Описание pull request
+Pull request merged	Pull request слит
+Pull request number.	Номер pull request.
+Pull request opened	Pull request открыт
+Pull request URL or #42	URL pull request или #42
+Pull request video	Видео pull request
+Pull Requests	Pull request'ы
+Pull requests unavailable	Pull request'ы недоступны
+Pulling latest changes...	Получение последних изменений...
+Purple	Фиолетовый
+Push notification	Push-уведомление
+Push notifications	Push-уведомления
+Push to default ref?	Push в ветку по умолчанию?
+Puzzle	Пазл
+Query	Запрос
+Queue	Очередь
+Queued	В очереди
+Queued message is no longer queued	Сообщение больше не в очереди
+Quit shortcut	Сочетание клавиш для выхода
+Raised surface	Приподнятая поверхность
+Reach this machine via	Подключиться к этому компьютеру через
+Reachable at	Доступно по адресу
+Read	Чтение
+Read and act	Чтение и действия
+Read existing terminal output and status.	Читать существующий вывод и статус терминала.
+Read files	Чтение файлов
+Read only	Только чтение
+Read PRs	Чтение PR
+Read throughput	Скорость чтения
+Read Total	Всего прочитано
+Read/s	Чтение/с
+Ready	Готово
+Ready for review	Готово к ревью
+Reasoning	Рассуждения
+Recent requests to this task's webhook URL.	Недавние запросы на URL вебхука этой задачи.
+Recent Threads	Недавние треды
+Recently updated	Недавно обновлённые
+Recently used	Недавно использованные
+Recents	Недавние
+Reconnect	Переподключить
+Reconnect ChatGPT	Переподключить ChatGPT
+Reconnect this environment before saving.	Переподключите эту среду перед сохранением.
+Reconnect to the environment and try again.	Переподключитесь к среде и повторите попытку.
+Recording saved	Запись сохранена
+Red	Красный
+Red & green (default)	Красный и зелёный (по умолчанию)
+Red / green (protanopia)	Красный / зелёный (протанопия)
+Reduce Motion	Уменьшить движение
+Reduce Transparency	Уменьшить прозрачность
+Refresh	Обновить
+Refresh archived chats	Обновить архивные чаты
+Refresh cloud archives	Обновить облачные архивы
+Refresh devices	Обновить устройства
+Refresh login	Обновить вход
+Refresh process diagnostics	Обновить диагностику процессов
+Refresh provider status	Обновить статус провайдера
+Refresh remote branch status in the background.	Обновлять статус удалённых веток в фоне.
+Refresh resource history	Обновить историю ресурсов
+Refresh telemetry snapshot	Обновить снимок телеметрии
+Refresh trace diagnostics	Обновить диагностику трассировки
+Regenerating title	Пересоздание названия
+Region for Gemini Enterprise or Agent Platform.	Регион для Gemini Enterprise или Agent Platform.
+Registry agent ID	ID агента в реестре
+Registry default	По умолчанию в реестре
+Reinstall helper	Переустановить помощник
+Relative paths require an active project.	Для относительных путей нужен активный проект.
+Relaunch	Перезапустить
+Relaunch to update	Перезапустить для обновления
+Reload	Перезагрузить
+Reload app	Перезагрузить приложение
+Reminders	Напоминания
+Remote	Удалённый
+Remote link	Удалённая ссылка
+Remote only	Только удалённые
+Remove	Удалить
+Remove agent credits when merging	Удалять упоминание агента при слиянии
+Remove capture helper	Удалить помощник снимков
+Remove custom model	Удалить свою модель
+Remove downloaded runtime	Удалить скачанную среду выполнения
+Remove from draft	Убрать из черновика
+Remove from queue	Убрать из очереди
+Remove from this device	Удалить с этого устройства
+Remove hub	Удалить хаб
+Remove profile and data	Удалить профиль и данные
+Remove project	Удалить проект
+Remove route	Удалить маршрут
+Rename	Переименовать
+Rename project	Переименовать проект
+Rename thread	Переименовать тред
+Render display math flush left.	Выравнивать формулы по левому краю.
+Rendering diagram	Отрисовка диаграммы
+Reopen	Открыть снова
+Replace	Заменить
+Replace All	Заменить все
+Reply	Ответить
+Repository	Репозиторий
+Repository conventions	Соглашения репозитория
+Repository lookup failed	Не удалось найти репозиторий
+Repository name as owner/name.	Название репозитория в формате владелец/имя.
+Represents a card	Представляет карточку
+Represents a collate operation	Представляет операцию слияния
+Represents a delay	Представляет задержку
+Represents a display	Представляет вывод на экран
+Represents a document	Представляет документ
+Represents a manual task	Представляет ручную задачу
+Represents a stop point	Представляет точку остановки
+Represents an event	Представляет событие
+Represents input or output	Представляет ввод или вывод
+Represents output or input	Представляет вывод или ввод
+Request a review	Запросить ревью
+Request changes	Запросить изменения
+Request ended	Запрос завершён
+Require signature	Требовать подпись
+Required	Обязательно
+Rescan Git and hosting integrations	Пересканировать интеграции Git и хостинга
+Reset	Сбросить
+Reset all	Сбросить всё
+Reset new tab	Сбросить новую вкладку
+Reset to default	Сбросить к значению по умолчанию
+Resets	Сбросы
+Resident memory	Резидентная память
+Resize browser viewport from bottom edge	Изменить размер области просмотра за нижний край
+Resize browser viewport from bottom-left corner	Изменить размер области просмотра за левый нижний угол
+Resize browser viewport from bottom-right corner	Изменить размер области просмотра за правый нижний угол
+Resize browser viewport from left edge	Изменить размер области просмотра за левый край
+Resize browser viewport from right edge	Изменить размер области просмотра за правый край
+Resolve	Решить
+Resource History	История ресурсов
+Resource timeline	График ресурсов
+Responsive	Адаптивный
+Restart agent session	Перезапустить сессию агента
+Restart to update	Перезапустить для обновления
+Restarts	Перезапуски
+Restore 3D view	Вернуть 3D-вид
+Restore device defaults	Восстановить настройки устройства по умолчанию
+Restore local archive	Восстановить локальный архив
+Restore message	Восстановить сообщение
+Restore prompt	Восстановить запрос
+Restored archives	Восстановленные архивы
+Restored prompt may reappear in the stash	Восстановленный запрос может снова появиться в отложенных
+Restores	Восстановления
+Resume	Продолжить
+Retry	Повторить
+Retry loading folder	Повторить загрузку папки
+Retry setup status	Повторить проверку настройки
+Retry stack lookup	Повторить поиск стека
+Retry stack refresh	Повторить обновление стека
+Return to the provider and try again.	Вернитесь к провайдеру и повторите попытку.
+Return to workspace	Вернуться в рабочую область
+Revert and keep changes	Откатить и сохранить изменения
+Revert files too	Откатить и файлы тоже
+Review	Ревью
+Review changes	Просмотреть изменения
+Review dismissed	Ревью отклонено
+Review required	Требуется ревью
+Review summary options	Параметры сводки ревью
+Reviewers	Ревьюеры
+Reviewing	Ревью
+Revoke	Отозвать
+Rewrite	Переписать
+Root of the project's main workspace checkout.	Корень основного checkout рабочей области проекта.
+Rose	Розовый
+Rotate	Повернуть
+Rotate device	Повернуть устройство
+Route added	Маршрут добавлен
+Run at	Запускать в
+Run automatically on worktree creation	Запускать автоматически при создании рабочего дерева
+Run every	Запускать каждые
+Run every request	Запускать на каждый запрос
+Run in terminal	Запустить в терминале
+Run interrupted	Запуск прерван
+Run now	Запустить сейчас
+Run on	Запускать по
+Run this on each computer you want to connect.	Выполните это на каждом компьютере, который хотите подключить.
+Running	Выполняется
+Running provider update command.	Выполняется команда обновления провайдера.
+Running source control action	Выполняется действие системы контроля версий
+Runs on	Выполняется на
+Runs on its own	Работает самостоятельно
+Runtime	Среда выполнения
+Samples	Образцы
+San Francisco	Сан-Франциско
+Save	Сохранить
+Save icon	Сохранить значок
+Save plan to workspace	Сохранить план в рабочую область
+Save securely	Сохранить безопасно
+Save to workspace	Сохранить в рабочую область
+Saved chat activity	Сохранённая активность чата
+Saved securely and kept private	Сохранено безопасно и остаётся приватным
+Scan	Сканировать
+Schedule	Расписание
+Scheduled tasks	Запланированные задачи
+Screen Recording	Запись экрана
+Screenshot saved	Скриншот сохранён
+Screenshot unavailable	Скриншот недоступен
+Scroll tabs left	Прокрутить вкладки влево
+Scroll tabs right	Прокрутить вкладки вправо
+Search	Поиск
+Search all Lucide icons	Поиск по всем значкам Lucide
+Search authors	Поиск авторов
+Search chats	Поиск чатов
+Search community themes	Поиск тем сообщества
+Search files	Поиск файлов
+Search hosts or type devbox	Поиск хостов или введите devbox
+Search keybindings	Поиск сочетаний клавиш
+Search languages	Поиск языков
+Search licenses	Поиск лицензий
+Search matches	Совпадения поиска
+Search models...	Поиск моделей...
+Search or enter a URL	Введите запрос или URL
+Search or enter URL	Введите запрос или URL
+Search project contents	Поиск по содержимому проекта
+Search projects...	Поиск проектов...
+Search pull requests, or label:bug	Поиск pull request'ов или label:bug
+Search refs...	Поиск ref...
+Search registry	Поиск в реестре
+Search themes...	Поиск тем...
+Search threads or projects...	Поиск тредов или проектов...
+Searching the registry...	Поиск в реестре...
+Secret	Секрет
+Seedling	Росток
+Select a fixed local wall-clock time.	Выберите фиксированное местное время.
+Select a project	Выберите проект
+Select a thread to inspect turn diffs.	Выберите тред, чтобы посмотреть различия по ходам.
+Select all	Выбрать всё
+Select an account file	Выберите файл аккаунта
+Select at least one permission.	Выберите хотя бы одно разрешение.
+Select interval scheduling.	Выберите расписание по интервалу.
+Select none	Снять выбор
+Select one or more options.	Выберите один или несколько вариантов.
+Select original session ID	Выберите исходный ID сессии
+Select where to clone	Выберите, куда клонировать
+Selected by DeepAI Code.	Выбрано DeepAI Code.
+Selects direct URL navigation.	Выбирает переход по прямому URL.
+Send a message before you submit feedback.	Отправьте сообщение, прежде чем присылать отзыв.
+Send a message to start the conversation.	Отправьте сообщение, чтобы начать разговор.
+Send again once its chip resolves.	Отправьте снова, когда чип будет готов.
+Send again once its thumbnail appears.	Отправьте снова, когда появится миниатюра.
+Send SIGINT	Отправить SIGINT
+Send SIGKILL	Отправить SIGKILL
+Sending feedback to OpenAI...	Отправка отзыва в OpenAI...
+Sent by another agent	Отправлено другим агентом
+Sent by automation	Отправлено автоматизацией
+Server	Сервер
+Server deregistered	Регистрация сервера отменена
+Server environment	Среда сервера
+Server password	Пароль сервера
+Server PID	PID сервера
+Server update available	Доступно обновление сервера
+Server update failed	Не удалось обновить сервер
+Server URL	URL сервера
+Service	Сервис
+Session	Сессия
+Set	Задать
+Set a goal	Задать цель
+Set a goal to keep pursuing	Задайте цель, к которой нужно двигаться
+Set as default	Сделать основным
+Set how fast panels open and close.	Задайте скорость открытия и закрытия панелей.
+Set price	Задать цену
+Set up Cloud connection	Настроить облачное подключение
+Set up DeepAI Code	Настроить DeepAI Code
+Set up devices	Настроить устройства
+Set up Tailscale HTTPS?	Настроить Tailscale HTTPS?
+Setting not saved	Настройка не сохранена
+Settings	Настройки
+Settings file	Файл настроек
+Settle thread	Завершить тред
+Settled	Завершено
+Setup	Настройка
+Setup Required	Требуется настройка
+Setup unavailable	Настройка недоступна
+Shadow home path	Путь к теневому домашнему каталогу
+Share	Поделиться
+Shared Codex config, sessions, and state.	Общая конфигурация, сессии и состояние Codex.
+Shared policy	Общая политика
+Shopping	Покупки
+Shortcut	Сочетание клавиш
+Shortcut permissions	Разрешения для сочетаний клавиш
+Shortcut saved	Сочетание клавиш сохранено
+Show a gentle cue on the captured window.	Показывать лёгкую подсказку на снятом окне.
+Show app	Показать приложение
+Show Borders	Показывать границы
+Show error	Показать ошибку
+Show formatted Markdown as you type.	Показывать отформатированный Markdown при вводе.
+Show in folder	Показать в папке
+Show key presses in recordings	Показывать нажатия клавиш в записях
+Show less	Показать меньше
+Show linked pull requests	Показывать связанные pull request'ы
+Show more	Показать больше
+Show mouse presses in recordings	Показывать нажатия мыши в записях
+Show skills in slash menu	Показывать навыки в меню слэша
+Show this provider's usage limits	Показывать лимиты использования этого провайдера
+Shown in the provider list and model picker.	Показывается в списке провайдеров и выборе модели.
+Shown in the provider list.	Показывается в списке провайдеров.
+Sidebar	Боковая панель
+Sidebar (legacy)	Боковая панель (устаревшая)
+Sidebar background	Фон боковой панели
+Sidebar controls	Элементы управления боковой панели
+Sidebar options	Параметры боковой панели
+Sidebar selection	Выделение в боковой панели
+Sign in	Войти
+Sign in again to continue	Войдите снова, чтобы продолжить
+Sign in again to reconnect your DeepAI account.	Войдите снова, чтобы переподключить аккаунт DeepAI.
+Sign in to an account	Войти в аккаунт
+Sign in to Cloud connection	Войти в облачное подключение
+Sign in to DeepAI	Войти в DeepAI
+Sign in to DeepAI Code	Войти в DeepAI Code
+Sign in to DeepAI to continue this conversation.	Войдите в DeepAI, чтобы продолжить этот разговор.
+Sign out	Выйти
+Signature verified	Подпись проверена
+Signed in as	Вы вошли как
+Sign-in method	Способ входа
+Simulator support	Поддержка симулятора
+Skip requests older than	Пропускать запросы старше
+Skipped	Пропущено
+Sky	Небесный
+Slow Spans	Медленные спаны
+Slowest Spans	Самые медленные спаны
+Small	Мелкий
+Small starting point	Небольшая отправная точка
+Smallest shown	Самый мелкий из показанных
+Snapshot failed	Не удалось сделать снимок
+Snapshot taken, but no project is available	Снимок сделан, но нет доступного проекта
+SnapShots	Снимки
+Snooze	Отложить
+Snooze for	Отложить на
+Snooze limited threads	Откладывать ограниченные треды
+Snooze thread	Отложить тред
+Some attachments were not restored	Некоторые вложения не восстановлены
+Some checks haven't completed yet	Некоторые проверки ещё не завершены
+Some checks were not successful	Некоторые проверки не пройдены
+Some history was not imported	Часть истории не импортирована
+Some requests are slow	Некоторые запросы медленные
+Some workspace entries are not shown.	Некоторые элементы рабочей области не показаны.
+Something went wrong!	Что-то пошло не так!
+Something went wrong.	Что-то пошло не так.
+Sort	Сортировка
+Sort projects	Сортировка проектов
+Sort pull requests	Сортировка pull request'ов
+Sort threads	Сортировка тредов
+Source	Источник
+Source control	Система контроля версий
+Source Control Providers	Провайдеры контроля версий
+Source control writer model	Модель для сообщений контроля версий
+Source control writer model not saved	Модель для сообщений контроля версий не сохранена
+Source draft	Исходный черновик
+Sources	Источники
+Span	Спан
+Span Logs	Логи спанов
+Spans	Спаны
+Sparkles	Искры
+Speed	Скорость
+Split	Разделить
+Sponsored	Спонсорский
+SSH config default	Умолчание из конфигурации SSH
+SSH host or alias	Хост или псевдоним SSH
+SSH options	Параметры SSH
+SSH Password Required	Требуется пароль SSH
+SSH target	Цель SSH
+Stable	Стабильный
+Stacked	Стопкой
+Standard	Стандартный
+Standard process shape	Стандартная фигура процесса
+Start a Codex thread first	Сначала начните тред Codex
+Start a new chat to change models	Начните новый чат, чтобы сменить модель
+Start a new chat to switch providers	Начните новый чат, чтобы сменить провайдера
+Start a new Git repository from a name	Создать новый репозиторий Git по названию
+Start from origin	Начать с origin
+Start, update, and stop tasks.	Запуск, обновление и остановка задач.
+Started in background	Запущено в фоне
+Starting point	Отправная точка
+Stash	Отложить в буфер
+Stash again once its chip resolves.	Отложите снова, когда чип будет готов.
+Stash entry may come back	Отложенная запись может вернуться
+Stashed files belong to another environment	Отложенные файлы относятся к другой среде
+Stashed images did not attach	Отложенные изображения не прикрепились
+Stashed images were not saved	Отложенные изображения не сохранены
+Stashed prompt will not survive a reload	Отложенный запрос не переживёт перезагрузку
+State	Состояние
+Status	Статус
+Status unknown	Статус неизвестен
+Steer	Направить
+Still compressing a pasted image.	Всё ещё сжимается вставленное изображение.
+Stockholm	Стокгольм
+Stop	Стоп
+Stop entire workflow	Остановить весь процесс
+Stop generation	Остановить генерацию
+Stop point	Точка остановки
+Stop subagent	Остановить субагента
+Stopped	Остановлено
+Stored data	Сохранённые данные
+Stored in plain text on disk.	Хранится на диске в открытом виде.
+Subagent of	Субагент
+Subagents	Субагенты
+Submodules	Подмодули
+Subprocess	Подпроцесс
+Subtle surface	Едва заметная поверхность
+Suggested	Рекомендуется
+Summarize	Подвести итог
+Summarize into a new chat	Подвести итог в новый чат
+Summarize into new chat	Подвести итог в новый чат
+Summary	Сводка
+Superseded attempt	Заменённая попытка
+Surface	Поверхность
+Switch branch	Сменить ветку
+Switch response model for this thread	Сменить модель ответа для этого треда
+Switch this thread back to normal build mode	Вернуть этот тред в обычный режим сборки
+Switch this thread into plan mode	Перевести этот тред в режим планирования
+Switch to	Переключиться на
+Switch to Windows	Переключиться на Windows
+Sync chats	Синхронизировать чаты
+Sync ref	Синхронизировать ref
+T3 project file	Файл проекта T3
+Tagged document	Документ с меткой
+Tagged process	Процесс с меткой
+Take control to respond.	Возьмите управление, чтобы ответить.
+Task unavailable	Задача недоступна
+Tasks	Задачи
+Teal	Бирюзово-зелёный
+Tent stand	Подставка-шатёр
+Terminal	Терминал
+Terminal background	Фон терминала
+Terminal commands	Команды терминала
+Terminal font	Шрифт терминала
+Terminal font size	Размер шрифта терминала
+Terminal or console window	Окно терминала или консоли
+Terminal point	Конечная точка
+Terminal process running	Процесс в терминале выполняется
+Terminate	Завершить
+Test	Тест
+Test connection	Проверить подключение
+Test tube	Пробирка
+Text block	Текстовый блок
+Text generation	Генерация текста
+Text generation model not saved	Модель генерации текста не сохранена
+Text size	Размер текста
+The annotation was kept without the screenshot.	Пометка сохранена без скриншота.
+The chat isn't ready to accept input right now.	Чат сейчас не готов принимать ввод.
+The composer is not ready	Поле ввода не готово
+The environment is not connected.	Среда не подключена.
+The line is where even spending would be.	Линия показывает ровный расход.
+The model could not process this input	Модель не смогла обработать этот ввод
+The page copied text	Страница скопировала текст
+The quoted text has changed	Цитируемый текст изменился
+The reaction could not be saved	Не удалось сохранить реакцию
+The rest of this diff could not be loaded.	Не удалось загрузить остаток различий.
+The review could not be submitted	Не удалось отправить ревью
+The title could not be saved	Не удалось сохранить название
+The URL appears after you save.	URL появится после сохранения.
+The values of the options now selected.	Значения выбранных сейчас вариантов.
+Theme file	Файл темы
+Theme JSON	JSON темы
+Theme name	Название темы
+Themes	Темы
+Theos left	Theos осталось
+Thermal	Тепловой
+Thinking	Размышление
+Third-party notices	Уведомления о стороннем ПО
+This action cannot be undone.	Это действие нельзя отменить.
+This balance may be out of date.	Баланс может быть устаревшим.
+This connect link is incomplete	Ссылка для подключения неполная
+This connection cannot add projects.	Это подключение не может добавлять проекты.
+This connection cannot change projects.	Это подключение не может изменять проекты.
+This connection cannot control terminals.	Это подключение не может управлять терминалами.
+This connection cannot manage provider accounts.	Это подключение не может управлять аккаунтами провайдеров.
+This device	Это устройство
+This evening	Сегодня вечером
+This folder is no longer available.	Эта папка больше недоступна.
+This machine	Этот компьютер
+This may take a moment.	Это может занять немного времени.
+This question cannot accept attachments.	Этот вопрос не принимает вложения.
+This scheduled task no longer exists.	Эта запланированная задача больше не существует.
+This sign-in cannot continue	Этот вход нельзя продолжить
+This tab is no longer available	Эта вкладка больше недоступна
+This tab is open in the DeepAI Code desktop app.	Эта вкладка открыта в приложении DeepAI Code для компьютера.
+Thread	Тред
+Thread action failed	Не удалось выполнить действие с тредом
+Thread action unavailable	Действие с тредом недоступно
+Thread archived, but navigation failed	Тред архивирован, но переход не удался
+Thread deleted, but navigation failed	Тред удалён, но переход не удался
+Thread ID	ID треда
+Thread ID copied	ID треда скопирован
+Thread notifications	Уведомления о тредах
+Thread search is unavailable on this server.	Поиск тредов недоступен на этом сервере.
+Thread title cannot be empty	Название треда не может быть пустым
+Threads	Треды
+Time	Время
+Timeline	Хронология
+Tinted	Тонированный
+Tip	Совет
+Toggle	Переключить
+Toggle main sidebar	Показать/скрыть главную боковую панель
+Toggle Sidebar	Показать/скрыть боковую панель
+Toggle theme editor	Показать/скрыть редактор тем
+Toggle thread details	Показать/скрыть сведения о треде
+Token	Токен
+Token budget	Бюджет токенов
+Token cap (optional)	Лимит токенов (необязательно)
+Tokens	Токены
+Tokens by type	Токены по типам
+Tokyo	Токио
+Tomorrow	Завтра
+Tools	Инструменты
+Top Span Names	Самые частые названия спанов
+Total	Всего
+Total processed	Всего обработано
+Totals	Итоги
+Trace	Трассировка
+Trace Diagnostics	Диагностика трассировки
+Trace ID copied	ID трассировки скопирован
+Troubleshooting	Устранение неполадок
+Try a broader search.	Попробуйте более широкий поиск.
+Try again	Повторить
+Try again.	Повторите попытку.
+Try sign-in in your browser	Попробуйте войти в браузере
+Turn	Ход
+Two colors, rest derived	Два цвета, остальное вычисляется
+Type	Тип
+Type the folder path with @ instead.	Введите путь к папке через @.
+Typography	Типографика
+Ultrafast	Сверхбыстро
+Unable to add to chat	Не удалось добавить в чат
+Unable to capture screenshot	Не удалось сделать скриншот
+Unable to change the browser tab	Не удалось изменить вкладку браузера
+Unable to copy recording path	Не удалось скопировать путь к записи
+Unable to load file preview.	Не удалось загрузить превью файла.
+Unable to load workspace image.	Не удалось загрузить изображение рабочей области.
+Unable to move the browser tab	Не удалось переместить вкладку браузера
+Unable to open browser	Не удалось открыть браузер
+Unable to open check details	Не удалось открыть сведения о проверке
+Unable to open file	Не удалось открыть файл
+Unable to open file in browser	Не удалось открыть файл в браузере
+Unable to open keybindings file	Не удалось открыть файл сочетаний клавиш
+Unable to open link	Не удалось открыть ссылку
+Unable to open link in browser	Не удалось открыть ссылку в браузере
+Unable to open preview	Не удалось открыть превью
+Unable to open pull request link	Не удалось открыть ссылку на pull request
+Unable to open release notes	Не удалось открыть заметки о выпуске
+Unable to remove keybinding	Не удалось удалить сочетание клавиш
+Unable to resize browser viewport	Не удалось изменить размер области просмотра браузера
+Unable to reveal file	Не удалось показать файл
+Unable to run command	Не удалось выполнить команду
+Unable to save a copy	Не удалось сохранить копию
+Unable to save keybinding	Не удалось сохранить сочетание клавиш
+Unable to start recording	Не удалось начать запись
+Unable to stop recording	Не удалось остановить запись
+Unable to update popped-out preview	Не удалось обновить вынесенное превью
+Unable to update the thread pull request	Не удалось обновить pull request треда
+Unarchive	Вернуть из архива
+Unavailable	Недоступно
+Unavailable selection	Недоступный выбор
+Uncached input	Некэшированный ввод
+Uncommitted	Не закоммичено
+Unfold device	Разложить устройство
+Unicorn	Единорог
+Unit	Единица
+Unpin confirmation	Подтверждение открепления
+Unpin thread	Открепить тред
+Unpriced	Без цены
+Unsent draft	Неотправленный черновик
+Un-settle thread	Вернуть тред в работу
+Up to date	Актуально
+Update	Обновить
+Update DeepAI Code	Обновить DeepAI Code
+Update existing	Обновить существующее
+Update required	Требуется обновление
+Update the extension	Обновить расширение
+Update the server to enable it.	Обновите сервер, чтобы включить это.
+Update theme	Обновить тему
+Update this environment to manage Antigravity.	Обновите эту среду, чтобы управлять Antigravity.
+Update track	Канал обновлений
+Updated	Обновлено
+Upside down	Вверх ногами
+Usage	Использование
+Usage limit reached	Достигнут лимит использования
+Usage limits	Лимиты использования
+Usage limits are unavailable for this provider	Лимиты использования недоступны для этого провайдера
+Usage may be out of date. Refresh to retry.	Данные об использовании могут быть устаревшими. Обновите, чтобы повторить.
+Usage providers	Провайдеры использования
+USD / million tokens	USD / млн токенов
+Use a different account	Использовать другой аккаунт
+Use a reset credit?	Использовать кредит сброса?
+Use a specific checkout	Использовать конкретный checkout
+Use active login	Использовать активный вход
+Use credit	Использовать кредит
+Use DeepAI Code desktop for automatic return	Используйте DeepAI Code для компьютера для автоматического возврата
+Use existing CLI	Использовать существующий CLI
+Use full-context fork	Использовать ответвление с полным контекстом
+Use global default	Использовать глобальное значение по умолчанию
+Use regular expression	Использовать регулярное выражение
+Use template	Использовать шаблон
+Use terminals	Использовать терминалы
+Use the project checkout	Использовать checkout проекта
+Use threads from this environment	Использовать треды из этой среды
+Use your desktop's shortcut settings file.	Используйте файл настроек сочетаний клавиш вашего компьютера.
+Username	Имя пользователя
+Validating executable	Проверка исполняемого файла
+Variables	Переменные
+Verifying download	Проверка загрузки
+Version	Версия
+Version Control	Контроль версий
+Versions have not been checked.	Версии не проверялись.
+View access	Доступ на просмотр
+View current plans	Посмотреть текущие тарифы
+View diagnostics	Посмотреть диагностику
+View diagnostics and usage	Посмотреть диагностику и использование
+View environment	Посмотреть среду
+View instructions	Посмотреть инструкции
+View licenses	Посмотреть лицензии
+View policy	Посмотреть политику
+View relay	Посмотреть ретранслятор
+View terminals	Посмотреть терминалы
+Viewed	Просмотрено
+Violet	Фиолетовый
+Visibility	Видимость
+Visible threads	Видимые треды
+Wait for it to finish before the agent starts	Дождаться завершения перед запуском агента
+Waiting	Ожидание
+Waiting for an answer in the original thread	Ожидание ответа в исходном треде
+Waiting for collector health.	Ожидание состояния коллектора.
+Waiting for installer	Ожидание установщика
+Waiting for sample	Ожидание образца
+Waiting for the native process monitor.	Ожидание нативного монитора процессов.
+Wake thread	Разбудить тред
+Warning	Предупреждение
+Watch an iOS Simulator or Android Emulator.	Наблюдать за iOS Simulator или Android Emulator.
+Web	Веб
+What gets synced	Что синхронизируется
+What it may do	Что ему разрешено
+What should the agent do each time this runs?	Что должен делать агент при каждом запуске?
+What should we work on?	Над чем будем работать?
+When	Когда
+Whether requests must carry a valid signature.	Должны ли запросы нести действительную подпись.
+Whether this link may update Live Activities.	Может ли эта ссылка обновлять Live Activities.
+Wide	Широкий
+Woke	Разбужен
+Woke from snooze	Разбужен после откладывания
+Word wrap	Перенос слов
+Working	В работе
+Working section (beta)	Рабочий раздел (бета)
+Workspace	Рабочая область
+Workspace path	Путь к рабочей области
+Workspace path is unavailable	Путь к рабочей области недоступен
+Worktree branch naming	Именование веток рабочих деревьев
+Worktree cleanup	Очистка рабочих деревьев
+Worktrees	Рабочие деревья
+Wrap lines	Переносить строки
+Write	Запись
+Write custom instructions for all	Написать свои инструкции для всех
+Write files	Запись файлов
+Write throughput	Скорость записи
+Write Total	Всего записано
+Write/s	Запись/с
+WSL backend	Бэкенд WSL
+WSL only	Только WSL
+Yellow	Жёлтый
+You	Вы
+Your ChatGPT plan is connected	Ваш тариф ChatGPT подключён
+Your next message starts a fresh session.	Следующее сообщение начнёт новую сессию.
+Your previous login could not be restored	Не удалось восстановить ваш прежний вход
+Your projects	Ваши проекты
+Your settings could not be saved. Try again.	Не удалось сохранить настройки. Повторите попытку.
+Your signed-in server	Ваш сервер, в который выполнен вход
+Your unsaved edit was discarded.	Несохранённая правка отброшена.
+Your unsaved edit was kept in the composer.	Несохранённая правка оставлена в поле ввода.
+You're currently checked out on another branch.	Сейчас вы находитесь на другой ветке.
+You're not connected to a server yet.	Вы ещё не подключены к серверу.
+Zoom	Масштаб
+A comment is anchored to the whole change, so switch to All commits to write one.	Комментарий привязан ко всему изменению, поэтому переключитесь на «Все коммиты», чтобы его написать.
+A project script that team members can import into T3 Code.	Скрипт проекта, который участники команды могут импортировать в T3 Code.
+A walk through the diff and what to read closely.	Обзор диффа и того, на что стоит обратить внимание.
+Account-specific Codex home. Keeps auth.json separate while sharing state from CODEX_HOME.	Домашний каталог Codex для конкретного аккаунта. Хранит auth.json отдельно, сохраняя общее состояние из CODEX_HOME.
+Actions are project-scoped commands you can run from the top bar or keybindings.	Действия — это команды уровня проекта, которые можно запускать с верхней панели или по сочетаниям клавиш.
+Add a project folder before continuing this chat.	Добавьте папку проекта, прежде чем продолжить этот чат.
+Add a project, and the pull requests from its repository appear here.	Добавьте проект, и pull request'ы из его репозитория появятся здесь.
+Add actions declared by this checkout without editing them first.	Добавьте действия, объявленные в этом checkout, не редактируя их.
+Add files and commands · type / for commands	Добавляйте файлы и команды · введите / для команд
+Add project action…	Добавить действие проекта…
+Add remote machines with simulator or emulator runtimes installed, and the selected environments will connect over SSH and set up device tools automatically.	Добавьте удалённые машины с установленными симуляторами или эмуляторами, и выбранные среды подключатся по SSH и сами настроят инструменты устройств.
+Add the original project folder to this environment first.	Сначала добавьте исходную папку проекта в эту среду.
+Additional CLI arguments passed on session start.	Дополнительные аргументы CLI, передаваемые при запуске сессии.
+Additional CLI arguments passed to codex app-server on session start.	Дополнительные аргументы CLI, передаваемые в codex app-server при запуске сессии.
+Additional CLI arguments passed to pi --mode rpc on session start.	Дополнительные аргументы CLI, передаваемые в pi --mode rpc при запуске сессии.
+Adjust the contrast of colors and borders across the interface.	Настройте контрастность цветов и границ во всём интерфейсе.
+Agent identifier from the official ACP Registry, for example 'devin'.	Идентификатор агента из официального реестра ACP, например 'devin'.
+Ahead of pace: spending faster than the window elapses	Опережает темп: расход быстрее, чем идёт окно
+Allow DeepAI Code to read your desktop settings. You'll review any changes here before saving.	Разрешите DeepAI Code читать настройки вашего рабочего стола. Все изменения вы просмотрите здесь перед сохранением.
+Allow planning through /plan and the + menu. Accepting a plan returns the chat to Build mode.	Разрешить планирование через /plan и меню «+». Принятие плана возвращает чат в режим сборки.
+Also include skills in the / command menu. Skills always appear when you type $.	Также показывать навыки в меню команд «/». Навыки всегда появляются при вводе $.
+An error occurred while copying.	Ошибка при копировании.
+An error occurred while creating the new thread.	Ошибка при создании нового треда.
+An error occurred while saving.	Ошибка при сохранении.
+An error occurred.	Произошла ошибка.
+An unexpected error occurred.	Произошла непредвиденная ошибка.
+Annotated preview crop	Кадр превью с пометками
+API keys, base URLs, and other per-instance CLI settings.	Ключи API, базовые URL и другие настройки CLI для каждого экземпляра.
+Appended to the naming prompt. The model returns the complete branch name; no prefix or suffix is added.	Добавляется к промпту именования. Модель возвращает полное название ветки; префикс и суффикс не добавляются.
+Approve routine actions using this connection’s approval mode.	Одобрять рутинные действия в режиме подтверждения этого подключения.
+Approximate active CPU time for the DeepAI server root process and its descendants during the selected window. It grows only while sampled processes use CPU and older samples leave as the window moves.	Примерное время активной работы CPU корневого процесса сервера DeepAI и его потомков за выбранное окно. Растёт только пока опрашиваемые процессы используют CPU, а старые замеры уходят по мере сдвига окна.
+Archive confirmation	Подтверждение архивации
+Ask before deleting a thread and its chat history.	Спрашивать перед удалением треда и истории его чата.
+Ask before unpinning a thread from the pinned section.	Спрашивать перед откреплением треда из закреплённых.
+Attach a pull request to this thread by its URL, or by its number for this thread's repository.	Привяжите pull request к этому треду по URL или по номеру для репозитория этого треда.
+Attach dropped files again or remove them before stashing	Прикрепите перетащенные файлы снова или удалите их перед откладыванием
+Attachments are not summarized. The original chat and draft stay intact. Create chat stores the summary as hidden context; it does not send a message or put the summary in your composer.	Вложения не включаются в сводку. Исходный чат и черновик остаются нетронутыми. «Создать чат» сохраняет сводку как скрытый контекст: сообщение не отправляется и сводка не попадает в поле ввода.
+Authentication failed.	Ошибка аутентификации.
+Automatic installation unavailable. Set a binary path or use another environment.	Автоматическая установка недоступна. Укажите путь к бинарному файлу или используйте другую среду.
+Automatically downloads stable DeepAI Code updates.	Автоматически скачивает стабильные обновления DeepAI Code.
+Automatically resume interrupted threads after an update, crash, or machine restart on the selected environments.	Автоматически продолжать прерванные треды после обновления, сбоя или перезапуска компьютера в выбранных средах.
+Auto-show floating preview	Автопоказ плавающего превью
+Back up chat history and attachments to your DeepAI account. API keys stay on this device.	Резервное копирование истории чатов и вложений в ваш аккаунт DeepAI. Ключи API остаются на этом устройстве.
+Balance unavailable.	Баланс недоступен.
+Beyond read only, it can start, message and stop threads, and none of them can run with more than the mode you pick.	Помимо чтения, он может запускать треды, отправлять им сообщения и останавливать их, и ни один из них не сможет работать с правами выше выбранного вами режима.
+Blank cache rates use the input price. Enter 0 for free tokens. A mapped model’s usage counts as the model it maps to.	Пустые цены кэша берутся из цены ввода. Введите 0 для бесплатных токенов. Использование сопоставленной модели засчитывается той модели, с которой она сопоставлена.
+Browse host files, search workspaces, and inspect local changes.	Просматривайте файлы хоста, ищите по рабочим областям и смотрите локальные изменения.
+Browser recording frame rate	Частота кадров записи браузера
+Browser storage is unavailable, so the change was not kept.	Хранилище браузера недоступно, поэтому изменение не сохранено.
+Browser storage is unavailable, so this stash is kept in memory only for this session.	Хранилище браузера недоступно, поэтому этот отложенный запрос хранится только в памяти на время сессии.
+Browser storage rejected the delete, so this prompt could reappear after a reload.	Хранилище браузера отклонило удаление, поэтому этот запрос может снова появиться после перезагрузки.
+Browser storage rejected the update, so this entry could still be there after a reload.	Хранилище браузера отклонило обновление, поэтому эта запись может остаться после перезагрузки.
+Browser storage rejected the write, so the composer was left as-is. Free up site data and try again.	Хранилище браузера отклонило запись, поэтому поле ввода оставлено как есть. Освободите данные сайта и повторите попытку.
+Can't find a setting? Keep this project picked above and hop to any other settings page.	Не находите настройку? Оставьте выбранным этот проект выше и перейдите на любую другую страницу настроек.
+Capture needs attention. Go back to check access.	Снимок требует внимания. Вернитесь, чтобы проверить доступ.
+Chat contents are backed up from this computer. Pin and archive preferences sync across devices. Chats without a known account stay local.	Содержимое чатов копируется с этого компьютера. Закрепления и архив синхронизируются между устройствами. Чаты без известного аккаунта остаются локальными.
+Chat width	Ширина чата
+Check DeepAI Code SnapShots in GNOME Extensions, then try again.	Проверьте DeepAI Code SnapShots в расширениях GNOME и повторите попытку.
+Check details are out of date. Refresh the pull request to update them.	Данные проверки устарели. Обновите pull request, чтобы обновить их.
+Check installed provider CLIs for newer available versions.	Проверить установленные CLI провайдеров на более новые версии.
+Check the branch out and resolve the conflicts in a new thread	Переключитесь на ветку и разрешите конфликты в новом треде
+Check the host connection and network access, then retry. Your device settings are saved.	Проверьте подключение к хосту и доступ к сети, затем повторите. Настройки вашего устройства сохранены.
+Checked-in project configuration for T3 Code (t3.json at the repository root). See https://t3.codes for documentation.	Проверяемая в репозитории конфигурация проекта для T3 Code (t3.json в корне репозитория). Документация: https://t3.codes.
+Checkout switched, but the thread could not be updated	Checkout переключён, но тред не удалось обновить
+Choose a different file…	Выбрать другой файл…
+Choose a project to manage its name, icon, checkouts and actions.	Выберите проект, чтобы управлять его названием, значком, checkout'ами и действиями.
+Choose a writable destination and try again. Your open draft is unchanged.	Выберите доступное для записи место и повторите попытку. Ваш открытый черновик не изменён.
+Choose an agent to start coding. You can add more later.	Выберите агента, чтобы начать писать код. Позже можно добавить других.
+Choose an authenticated connection’s draft	Выберите черновик авторизованного подключения
+Choose colors for additions and deletions, including change counts.	Выберите цвета для добавлений и удалений, включая счётчики изменений.
+Choose how new worktree branches are named from your first message.	Выберите, как называются новые ветки рабочих деревьев по вашему первому сообщению.
+Choose one environment to edit its list. Adding an action here adds it on every selected environment.	Выберите одну среду, чтобы изменить её список. Добавленное здесь действие добавляется во всех выбранных средах.
+Choose one or more computers. We’ll set up agents and projects on each.	Выберите один или несколько компьютеров. Мы настроим агентов и проекты на каждом.
+Choose the old profile, then explicitly select its account storage file. Account hashes are not proof of ownership. Only selected content is copied; credentials and approval settings are excluded.	Выберите старый профиль, затем явно укажите файл хранилища его аккаунта. Хэши аккаунтов не доказывают владение. Копируется только выбранное содержимое; учётные данные и настройки подтверждений исключены.
+Choose when Enter sends a prompt or inserts a new line	Выберите, когда Enter отправляет запрос, а когда вставляет новую строку
+Choose when snoozed threads return to your inbox.	Выберите, когда отложенные треды возвращаются во входящие.
+Claude resumes the latest native history, which may be newer than this saved archive. The archive displayed here and the original native session remain unchanged.	Claude продолжает с последней нативной истории, которая может быть новее этого сохранённого архива. Показанный здесь архив и исходная нативная сессия остаются без изменений.
+Claude, GPT, and Gemini use this pool. Grok and Composer fall back here.	Claude, GPT и Gemini используют этот пул. Grok и Composer переходят на него при необходимости.
+Close this page and start the sign-in again from your agent.	Закройте эту страницу и снова начните вход из вашего агента.
+Cloud	Облако
+Cloud connection access was revoked and a host space is now available.	Доступ облачного подключения отозван, теперь доступно место для хоста.
+Cloud connection access will be revoked, any managed tunnel will be removed, and a host space will become available. Local connections on your devices are not changed.	Доступ облачного подключения будет отозван, управляемый туннель удалён, а место для хоста станет доступным. Локальные подключения на ваших устройствах не изменятся.
+Code and terminal need a fixed-width font, so the current font was kept.	Коду и терминалу нужен моноширинный шрифт, поэтому текущий шрифт оставлен.
+Code blocks, diffs, file previews, and the terminal.	Блоки кода, различия, превью файлов и терминал.
+Codex setup failed. Try again.	Не удалось настроить Codex. Повторите попытку.
+Combine matching repositories across environments.	Объединять одинаковые репозитории из разных сред.
+Combined usage across both allowances, not a third quota.	Совокупное использование по обоим лимитам, а не третья квота.
+Commands that run in this project's checkout or its worktree, with optional shortcuts.	Команды, которые выполняются в checkout этого проекта или его рабочем дереве, с необязательными сочетаниями клавиш.
+Commit, push, manage branches and repositories, and change pull requests.	Коммиты, push, управление ветками и репозиториями, изменение pull request'ов.
+Compact after 100,000 to 1,000,000 tokens. Leave empty to use Claude's default.	Сжимать после 100 000–1 000 000 токенов. Оставьте пустым, чтобы использовать значение Claude по умолчанию.
+Configure non-secret routing. Headers are write-only.	Настройте неконфиденциальную маршрутизацию. Заголовки доступны только для записи.
+Configure, install, sign in to, and update providers and usage sources.	Настройка, установка, вход и обновление провайдеров и источников использования.
+Connect a selected environment to manage device hosts.	Подключите выбранную среду, чтобы управлять хостами устройств.
+Connect an environment to choose its source control writer model.	Подключите среду, чтобы выбрать её модель для сообщений контроля версий.
+Connect an environment to choose its text generation model.	Подключите среду, чтобы выбрать её модель генерации текста.
+Connect an environment to inspect its version control tools and hosting integrations.	Подключите среду, чтобы просмотреть её инструменты контроля версий и интеграции с хостингом.
+Connect an environment to manage scheduled tasks.	Подключите среду, чтобы управлять запланированными задачами.
+Connect an environment to view its settings and access.	Подключите среду, чтобы посмотреть её настройки и доступ.
+Connect to an environment to remove this profile and its data.	Подключитесь к среде, чтобы удалить этот профиль и его данные.
+Connect to this environment to load cloud sync settings.	Подключитесь к этой среде, чтобы загрузить настройки облачной синхронизации.
+Contrast	Контрастность
+Controls whether background work may run after a subscribed interval fires.	Определяет, может ли фоновая работа выполняться после срабатывания интервала подписки.
+Copy from…	Копировать из…
+Copy the token and pair from another client using this backend's reachable host.	Скопируйте токен и выполните сопряжение с другого клиента через доступный хост этого бэкенда.
+Could not add the route.	Не удалось добавить маршрут.
+Could not answer the request. Try again.	Не удалось ответить на запрос. Повторите попытку.
+Could not authorize the environment request.	Не удалось авторизовать запрос среды.
+Could not change fold posture.	Не удалось изменить положение сгиба.
+Could not change limit recovery.	Не удалось изменить восстановление лимита.
+Could not check this shortcut.	Не удалось проверить это сочетание клавиш.
+Could not choose a merge method.	Не удалось выбрать способ слияния.
+Could not connect the Cloud connection environment.	Не удалось подключить среду облачного подключения.
+Could not create the environment request authorization proof.	Не удалось создать подтверждение авторизации запроса среды.
+Could not deregister the server.	Не удалось отменить регистрацию сервера.
+Could not link the pull request.	Не удалось привязать pull request.
+Could not load earlier activity.	Не удалось загрузить более раннюю активность.
+Could not load T3 Connect data.	Не удалось загрузить данные T3 Connect.
+Could not load this file.	Не удалось загрузить этот файл.
+Could not open this chat. Try again.	Не удалось открыть этот чат. Повторите попытку.
+Could not prepare the workspace.	Не удалось подготовить рабочую область.
+Could not read Cloud connection link state.	Не удалось прочитать состояние ссылки облачного подключения.
+Could not read Codex setup status. Reconnect and try again.	Не удалось прочитать статус настройки Codex. Переподключитесь и повторите попытку.
+Could not read environment session.	Не удалось прочитать сессию среды.
+Could not resume thread.	Не удалось продолжить тред.
+Could not save the edited queued message.	Не удалось сохранить изменённое сообщение из очереди.
+Could not start shortcut recording.	Не удалось начать запись сочетания клавиш.
+Could not start the goal. Your objective is still in the composer.	Не удалось начать цель. Ваша задача осталась в поле ввода.
+Could not synchronize the thread.	Не удалось синхронизировать тред.
+Could not update Cloud connection access.	Не удалось обновить доступ облачного подключения.
+Could not use the reset credit.	Не удалось использовать кредит сброса.
+Couldn’t open a new tab	Не удалось открыть новую вкладку
+Couldn’t remove theme	Не удалось удалить тему
+Couldn’t restore theme settings	Не удалось восстановить настройки темы
+Couldn’t save theme selection	Не удалось сохранить выбор темы
+Couldn't change this setting.	Не удалось изменить эту настройку.
+Couldn't finish this step. Try again or check Advanced for help.	Не удалось завершить этот шаг. Повторите попытку или загляните в «Дополнительно».
+Couldn't prepare the changes. Check Advanced for help.	Не удалось подготовить изменения. Загляните в «Дополнительно».
+Couldn't save your shortcut. Review the changes and try again.	Не удалось сохранить ваше сочетание клавиш. Проверьте изменения и повторите попытку.
+Create a new empty chat with the normal project and model picker first. Explicitly choose its connection and model. Return here to select that draft; no connection is chosen for you.	Сначала создайте новый пустой чат через обычный выбор проекта и модели. Явно выберите его подключение и модель. Вернитесь сюда, чтобы выбрать этот черновик: подключение за вас не выбирается.
+Create an empty chat first if needed. Original session IDs are shown below; mapping is never guessed.	При необходимости сначала создайте пустой чат. Исходные ID сессий показаны ниже; сопоставление никогда не угадывается.
+Create terminals and send input to running shells.	Создание терминалов и отправка ввода в запущенные оболочки.
+Creates the worktree from the latest matching branch on origin instead of your local branch.	Создаёт рабочее дерево из последней подходящей ветки в origin вместо вашей локальной ветки.
+Custom ACP executable. Leave empty to select automatically.	Свой исполняемый файл ACP. Оставьте пустым для автоматического выбора.
+Custom Claude home and config directory. Keeps .claude.json and .claude separate.	Свой домашний каталог и каталог конфигурации Claude. Хранит .claude.json и .claude отдельно.
+Custom…	Своё…
+DeepAI Code also reads any files included by this file.	DeepAI Code также читает все файлы, подключённые из этого файла.
+DeepAI Code does not recognize this condition yet. It can still be saved, but it may not match unless the runtime provides it.	DeepAI Code пока не распознаёт это условие. Его всё равно можно сохранить, но оно может не сработать, если среда выполнения его не предоставит.
+DeepAI Code uses the account signed in to deepai.org in your browser. To use another account, sign in to it there first.	DeepAI Code использует аккаунт, в который выполнен вход на deepai.org в вашем браузере. Чтобы использовать другой аккаунт, сначала войдите в него там.
+DeepAI Code will restart the local backend with Tailscale Serve enabled and ask Tailscale to proxy HTTPS traffic to this backend.	DeepAI Code перезапустит локальный бэкенд с включённым Tailscale Serve и попросит Tailscale проксировать HTTPS-трафик на этот бэкенд.
+DeepAI Code will restart the local backend without Tailscale Serve.	DeepAI Code перезапустит локальный бэкенд без Tailscale Serve.
+DeepAI Code's capture helper lets you capture other apps and return to your draft. It's included with DeepAI Code.	Помощник снимков DeepAI Code позволяет снимать другие приложения и возвращаться к вашему черновику. Он входит в состав DeepAI Code.
+DeepAI will be able to run commands, use the internet, and create and edit files anywhere on this computer without asking. This includes but is not limited to:	DeepAI сможет без вопросов выполнять команды, пользоваться интернетом и создавать и править файлы в любом месте этого компьютера. Это включает, помимо прочего:
+Default browser appearance	Внешний вид браузера по умолчанию
+Default browser viewport	Область просмотра браузера по умолчанию
+Default browser zoom	Масштаб браузера по умолчанию
+Default diff file state	Состояние файлов в различиях по умолчанию
+Default merge method	Способ слияния по умолчанию
+Delete all threads in this project before removing it.	Удалите все треды в этом проекте, прежде чем удалять его.
+Delete inactive rotated log files after this many days. Current logs are kept.	Удалять неактивные ротированные файлы логов через столько дней. Текущие логи сохраняются.
+Delete saved browser captures after this many days. Older capture links will no longer open.	Удалять сохранённые снимки браузера через столько дней. Старые ссылки на снимки перестанут открываться.
+Detached HEAD: create and check out a branch to enable push and pull request actions.	Detached HEAD: создайте ветку и переключитесь на неё, чтобы включить действия push и pull request.
+Diff colors	Цвета различий
+Diff layout	Раскладка различий
+Dismiss Woke notification	Закрыть уведомление о пробуждении
+Download failed.	Не удалось скачать.
+Draft attachment could not be saved locally and may be lost on navigation.	Вложение черновика не удалось сохранить локально, оно может пропасть при переходе.
+Each account has its own Codex instance and sign-in. Choose the other account on the sign-in page.	У каждого аккаунта свой экземпляр Codex и свой вход. Выберите другой аккаунт на странице входа.
+Edit this paused goal to raise or remove an exhausted cap. If usage is incomplete, remove the cap or start a new goal before continuing.	Измените эту приостановленную цель, чтобы повысить или убрать исчерпанный лимит. Если данные об использовании неполные, уберите лимит или начните новую цель, прежде чем продолжить.
+Eligible usage in DeepAI Code uses your ChatGPT plan. Manage your shared usage and any credit settings in ChatGPT.	Подходящее использование в DeepAI Code идёт по вашему тарифу ChatGPT. Управляйте общим использованием и настройками кредитов в ChatGPT.
+Ember	Янтарь
+Enable DeepAI Code SnapShots to start capturing windows.	Включите DeepAI Code SnapShots, чтобы начать снимать окна.
+Environment is not connected.	Среда не подключена.
+Every layer being merged must be open and ready for review.	Каждый сливаемый слой должен быть открыт и готов к ревью.
+Failed to add backend.	Не удалось добавить бэкенд.
+Failed to configure Tailscale HTTPS.	Не удалось настроить Tailscale HTTPS.
+Failed to create pairing URL.	Не удалось создать URL сопряжения.
+Failed to disable Tailscale HTTPS.	Не удалось отключить Tailscale HTTPS.
+Failed to disconnect.	Не удалось отключиться.
+Failed to dismiss the question.	Не удалось закрыть вопрос.
+Failed to fork this response.	Не удалось ответвиться от этого ответа.
+Failed to import action.	Не удалось импортировать действие.
+Failed to interrupt the current turn.	Не удалось прервать текущий ход.
+Failed to load refs.	Не удалось загрузить ref.
+Failed to reconnect.	Не удалось переподключиться.
+Failed to remove backend.	Не удалось удалить бэкенд.
+Failed to revert thread state.	Не удалось откатить состояние треда.
+Failed to revoke client access.	Не удалось отозвать доступ клиента.
+Failed to revoke other clients.	Не удалось отозвать остальные клиенты.
+Failed to revoke pairing link.	Не удалось отозвать ссылку сопряжения.
+Failed to save action.	Не удалось сохранить действие.
+Failed to send message.	Не удалось отправить сообщение.
+Failed to send messages.	Не удалось отправить сообщения.
+Failed to send plan follow-up.	Не удалось отправить продолжение плана.
+Failed to stop background work.	Не удалось остановить фоновую работу.
+Failed to submit approval decision.	Не удалось отправить решение по подтверждению.
+Failed to submit user input.	Не удалось отправить пользовательский ввод.
+Failed to update network exposure.	Не удалось обновить сетевую доступность.
+Failed to update WSL backend.	Не удалось обновить бэкенд WSL.
+Favorites, visibility, and ordering are saved on this device. Custom models are saved on the selected environment.	Избранное, видимость и порядок сохраняются на этом устройстве. Свои модели сохраняются в выбранной среде.
+Fix the expression above to continue editing visually.	Исправьте выражение выше, чтобы продолжить визуальное редактирование.
+Fix the failing checks in a new thread	Исправить непройденные проверки в новом треде
+Folders can't be dropped into remote environments	Папки нельзя перетаскивать в удалённые среды
+For example, feature or feature/ produces feature/add-search. Leave empty for no prefix.	Например, feature или feature/ даёт feature/add-search. Оставьте пустым, чтобы без префикса.
+Gemini or Vertex AI express key. Stored in plain text.	Ключ Gemini или Vertex AI express. Хранится в открытом виде.
+Generate a one-time link that another device can use to pair with this backend as an authorized client.	Создайте одноразовую ссылку, по которой другое устройство сможет сопрячься с этим бэкендом как авторизованный клиент.
+Goals use this chat’s saved connection, model, and approval settings. Send a message with your new selections first, or restore the saved selections, before starting or resuming a goal.	Цели используют сохранённые для этого чата подключение, модель и настройки подтверждений. Сначала отправьте сообщение с новым выбором или восстановите сохранённый выбор, прежде чем начинать или возобновлять цель.
+Google account	Аккаунт Google
+Google accounts use your subscription; API keys and Agent Platform bill usage.	Аккаунты Google используют вашу подписку; ключи API и Agent Platform тарифицируются по использованию.
+Grok and Composer use this first. Auto can use either pool.	Grok и Composer используют это в первую очередь. Авто может использовать любой пул.
+Headers must be valid JSON.	Заголовки должны быть корректным JSON.
+Hide this server's threads. Switch it on again in Connections.	Скрыть треды этого сервера. Включить снова можно в разделе «Подключения».
+Highlight mouse presses and held buttons in new recordings.	Подсвечивать нажатия мыши и удерживаемые кнопки в новых записях.
+I’ve quit it	Я его закрыл
+Idle · resumable	Простаивает · можно возобновить
+If sign-in doesn't return to DeepAI Code, paste the URL from the final localhost page.	Если вход не возвращает в DeepAI Code, вставьте URL с последней страницы localhost.
+If the final localhost page does not load, paste its full URL here.	Если последняя страница localhost не загружается, вставьте сюда её полный URL.
+Import projects and conversations from your selected computers.	Импорт проектов и бесед с выбранных компьютеров.
+Importing…	Импорт…
+In each project, matches recent change descriptions and change request titles.	В каждом проекте ищет по недавним описаниям изменений и заголовкам запросов на изменения.
+Include text and controls when the app makes them available.	Включать текст и элементы управления, когда приложение их предоставляет.
+In-memory process samples retained by the server. This resets when the server restarts.	Образцы процессов в памяти, которые хранит сервер. Сбрасываются при перезапуске сервера.
+Install DeepAI Code on your phone and sign in to Cloud connection to get push notifications and Live Activities.	Установите DeepAI Code на телефон и войдите в облачное подключение, чтобы получать push-уведомления и Live Activities.
+Install failed.	Не удалось установить.
+Install the deepai command in Settings → General on the computer with your code, then run:	Установите команду deepai в «Настройки» → «Общие» на компьютере с вашим кодом, затем выполните:
+Installed themes could not be read.	Не удалось прочитать установленные темы.
+Interrupted	Прервано
+Invalid input	Недопустимый ввод
+It’s now active.	Теперь оно активно.
+Its cookies and logins are deleted. Desktop tabs already open in this profile stay open until you close them; server browser tabs close now.	Его cookie и логины удаляются. Вкладки на компьютере, уже открытые в этом профиле, остаются открытыми, пока вы их не закроете; вкладки серверного браузера закрываются сразу.
+Its own folder and thread. Nothing you have open moves.	Своя папка и свой тред. Ничего из открытого у вас не перемещается.
+Keep agent credits	Сохранить упоминания агента
+Keep branch and worktree controls below the composer after a thread starts.	Оставлять управление ветками и рабочими деревьями под полем ввода после начала треда.
+Keep DeepAI Code open while the relay client is installed.	Не закрывайте DeepAI Code, пока устанавливается клиент ретрансляции.
+Keep DeepAI Code running. Select the computers you want to set up above.	Не закрывайте DeepAI Code. Выберите компьютеры, которые хотите настроить, выше.
+Keep webhook requests for up to 24 hours while this environment is offline, then deliver them. Off: Cloud connection only forwards requests and stores nothing.	Хранить запросы вебхуков до 24 часов, пока эта среда не в сети, затем доставлять их. Выкл: облачное подключение только пересылает запросы и ничего не хранит.
+Keep working, or relaunch to update. It also installs when you next quit.	Продолжайте работать или перезапустите для обновления. Оно также установится при следующем выходе.
+Leave blank to let DeepAI Code spawn the server when needed.	Оставьте пустым, чтобы DeepAI Code сам запускал сервер при необходимости.
+Leave empty to use "~/" when the Add Project browser opens.	Оставьте пустым, чтобы использовать «~/» при открытии обзора папок для добавления проекта.
+Leave this off to keep manual device controls without giving agents access.	Оставьте выключенным, чтобы сохранить ручное управление устройствами без доступа агентов.
+Link an environment from its local Settings to make it available through the cloud connection.	Привяжите среду в её локальных настройках, чтобы сделать её доступной через облачное подключение.
+Live native counters for the server, providers, terminals, desktop processes, and the monitor itself.	Живые нативные счётчики сервера, провайдеров, терминалов, процессов рабочего стола и самого монитора.
+Loading archived cloud chats…	Загрузка архивных облачных чатов…
+Loading chats…	Загрузка чатов…
+Loading deliveries…	Загрузка доставок…
+Loading delivery…	Загрузка доставки…
+Loading environments…	Загрузка сред…
+Loading files…	Загрузка файлов…
+Loading history…	Загрузка истории…
+Loading hosts…	Загрузка хостов…
+Loading local history…	Загрузка локальной истории…
+Loading open-source notices…	Загрузка уведомлений об открытом ПО…
+Loading output…	Загрузка вывода…
+Loading scheduled tasks…	Загрузка запланированных задач…
+Loading sign-in terminal…	Загрузка терминала входа…
+Loading…	Загрузка…
+Looking for browsers…	Поиск браузеров…
+Looking for projects from Claude Code and Codex…	Поиск проектов Claude Code и Codex…
+Make this environment available to your other devices through Cloud connection.	Сделайте эту среду доступной на других ваших устройствах через облачное подключение.
+Managed binary cleanup failed.	Не удалось очистить управляемые бинарные файлы.
+Managing cloud sync requires provider settings permission.	Для управления облачной синхронизацией нужно разрешение на настройки провайдера.
+Mark this pull request as ready for review	Пометить этот pull request как готовый к ревью
+Matched in the description	Совпало в описании
+Maximum recording rate. 30 fps saves CPU and storage; 60 fps is smoother.	Максимальная частота записи. 30 кадров/с экономят CPU и место, 60 — плавнее.
+Mermaid failed to load.	Не удалось загрузить Mermaid.
+Mesh your devices together — publish this environment and connect the rest, all in one place.	Объедините ваши устройства: опубликуйте эту среду и подключите остальные в одном месте.
+Mobile devices that get notifications from your environments.	Мобильные устройства, получающие уведомления от ваших сред.
+Model for source control text and branch or bookmark names. Off uses the environment's text generation model.	Модель для текста контроля версий и названий веток или закладок. Если выключено, используется модель генерации текста среды.
+Move to project…	Переместить в проект…
+Multiple models need a new thread in a Git project. Each gets its own worktree.	Для нескольких моделей нужен новый тред в Git-проекте. У каждой будет своё рабочее дерево.
+Network exposure changes restart the backend and must be controlled where the server process is launched.	Изменения сетевой доступности перезапускают бэкенд, и управлять ими нужно там, где запущен процесс сервера.
+New threads in shared projects start on the machine with the most free CPU and memory, weighted by each machine's preference.	Новые треды в общих проектах запускаются на машине с наибольшим объёмом свободных CPU и памяти с учётом предпочтения каждой машины.
+New York	Нью-Йорк
+Next split view. Use Right Arrow outside text fields.	Следующий разделённый вид. Используйте стрелку вправо вне текстовых полей.
+Nightly uses the new orchestrator. The App Store and Google Play versions of DeepAI Code cannot connect to it.	Nightly использует новый оркестратор. Версии DeepAI Code из App Store и Google Play не могут к нему подключаться.
+No Android virtual devices found. Create one in Android Studio's Device Manager, then refresh.	Виртуальные устройства Android не найдены. Создайте одно в Device Manager в Android Studio и обновите.
+No custom options. The composer uses the provider's default options.	Нет своих параметров. Поле ввода использует параметры провайдера по умолчанию.
+No instrumented application I/O has been recorded yet.	Ввод-вывод инструментированного приложения пока не записан.
+No other environments are published to your account yet. Publish one from another device and it will show up here.	В вашем аккаунте пока не опубликовано других сред. Опубликуйте одну с другого устройства, и она появится здесь.
+No provider on the selected environments reports subscription limits.	Ни один провайдер в выбранных средах не сообщает о лимитах подписки.
+No QR for this endpoint. Another device scanning a loopback link would dial itself; copy the URL for use on this machine instead.	Для этой конечной точки нет QR-кода. Другое устройство, сканирующее петлевую ссылку, подключилось бы само к себе; скопируйте URL для использования на этой машине.
+No tasks match this environment and project selection.	Нет задач, подходящих под выбранные среду и проект.
+Notices for dependencies, assets, and optional tools used by DeepAI Code.	Уведомления о зависимостях, ресурсах и необязательных инструментах, используемых DeepAI Code.
+On OpenAI, sign in with the account you choose here.	В OpenAI войдите в аккаунт, который выберете здесь.
+One moment while this environment verifies the agent's request.	Минутку, среда проверяет запрос агента.
+Only available in the desktop app.	Доступно только в приложении для компьютера.
+Only the box you write prompts in. Mono works well here.	Только поле, в котором вы пишете промпты. Здесь хорошо работает моноширинный шрифт.
+Only these changes will be saved. We'll keep a backup.	Будут сохранены только эти изменения. Мы сохраним резервную копию.
+Open browser previews and host browser automation.	Открытие превью браузера и автоматизация браузера хоста.
+Open DeepAI Code in the desktop app to use the in-app preview.	Откройте DeepAI Code в приложении для компьютера, чтобы использовать превью внутри приложения.
+Open GNOME Extensions and turn on extensions, then check again.	Откройте «Расширения GNOME», включите расширения и проверьте снова.
+Open in…	Открыть в…
+Open linked pull requests first. Otherwise, open Changes for edits to at least 3 files or 50 lines.	Сначала открывать связанные pull request'ы. Иначе открывать «Изменения» при правках минимум 3 файлов или 50 строк.
+Open Privacy & Security → Full Disk Access manually.	Откройте «Конфиденциальность и безопасность» → «Полный доступ к диску» вручную.
+Open saved chats or browse read-only archives. Opening a chat does not start an agent.	Открывайте сохранённые чаты или просматривайте архивы только для чтения. Открытие чата не запускает агента.
+Open this URL in the in-app preview when this action runs.	Открывать этот URL во встроенном превью при запуске этого действия.
+Open VSX search failed.	Не удалось выполнить поиск Open VSX.
+Opening chat…	Открытие чата…
+Opening new tab…	Открытие новой вкладки…
+Optional. Overrides browser sign-in for this provider.	Необязательно. Переопределяет вход через браузер для этого провайдера.
+Optional. Resolved separately on each environment.	Необязательно. Определяется отдельно для каждой среды.
+Order of projects in the sidebar project picker and command palette.	Порядок проектов в выборе проекта на боковой панели и в палитре команд.
+Other paired clients will need a new pairing link before reconnecting.	Остальным сопряжённым клиентам понадобится новая ссылка сопряжения для повторного подключения.
+Outdated	Устарело
+Pairing failed.	Не удалось выполнить сопряжение.
+Pairing link — scan to open on another device	Ссылка сопряжения — отсканируйте, чтобы открыть на другом устройстве
+Paste a full pairing URL here to fill both fields automatically.	Вставьте сюда полный URL сопряжения, чтобы заполнить оба поля автоматически.
+Pause prevents the next turn; Stop interrupts the current one. Goals stay paused after restarting the app.	Пауза предотвращает следующий ход, Стоп прерывает текущий. Цели остаются на паузе после перезапуска приложения.
+Pending — sent when you submit the review	Ожидает — отправится при отправке ревью
+Permissions not checked. Connect to this environment to view this session’s permissions.	Разрешения не проверены. Подключитесь к этой среде, чтобы посмотреть разрешения этой сессии.
+Pick where to host it, then point us at a repo to push to.	Выберите, где разместить, затем укажите репозиторий для push.
+Please try again.	Повторите попытку.
+Poll host power state when no foreground client is active.	Опрашивать состояние питания хоста, когда нет активного клиента на переднем плане.
+Power, idle, lock, and thermal state are supplied by the desktop host. Process telemetry remains fully active in this browser session.	Состояния питания, простоя, блокировки и перегрева поставляет хост рабочего стола. Телеметрия процессов в этой сессии браузера работает полностью.
+Preset…	Шаблон…
+Preview access is unavailable for this client.	Доступ к превью недоступен для этого клиента.
+Previous split view. Use Left Arrow outside text fields.	Предыдущий разделённый вид. Используйте стрелку влево вне текстовых полей.
+Prices and mappings apply to all past and future usage on the environments you select.	Цены и сопоставления применяются ко всему прошлому и будущему использованию в выбранных средах.
+Privacy policy	Политика конфиденциальности
+Profiles separate cookies and logins. Incognito data is cleared when the app closes.	Профили разделяют cookie и логины. Данные режима инкогнито удаляются при закрытии приложения.
+Project icon	Значок проекта
+Project order	Порядок проектов
+Project scripts shared with everyone who opens this repository in T3 Code.	Скрипты проекта, общие для всех, кто открывает этот репозиторий в T3 Code.
+Provider setup failed.	Не удалось настроить провайдера.
+Provider sign-in failed. Try again.	Не удалось войти через провайдера. Повторите попытку.
+Provider update failed.	Не удалось обновить провайдера.
+Pull requests the agent opens from this thread land here. Link one yourself from a URL or a number.	Pull request'ы, которые агент открывает из этого треда, появятся здесь. Привяжите нужный сами по URL или номеру.
+Read process diagnostics, resource history, and usage totals.	Чтение диагностики процессов, истории ресурсов и итогов использования.
+Read projects and threads. Cannot start, message or change anything.	Чтение проектов и тредов. Нельзя запускать, отправлять сообщения или что-либо менять.
+Read selected account’s drafts	Читать черновики выбранного аккаунта
+Read threads, status, checkpoints, and configuration.	Чтение тредов, статуса, контрольных точек и конфигурации.
+Read your existing Cursor CLI login from macOS Keychain to show account history and monthly limits. macOS may ask you to allow access.	Читать существующий вход Cursor CLI из macOS Keychain, чтобы показать историю аккаунта и месячные лимиты. macOS может запросить разрешение на доступ.
+Re-add it if you want that terminal output included.	Добавьте снова, если хотите включить вывод этого терминала.
+Read-only connection. Unsaved edits are kept until write access returns.	Подключение только для чтения. Несохранённые правки сохраняются, пока не вернётся доступ на запись.
+Reconnect this device to set up its provider, or select another device.	Переподключите это устройство, чтобы настроить его провайдера, или выберите другое устройство.
+Reconnecting preview…	Переподключение превью…
+Reconnecting to the environment. Try again once it is connected.	Переподключение к среде. Повторите попытку после подключения.
+Reduce the clipboard contents or save a smaller excerpt as a file.	Уменьшите содержимое буфера обмена или сохраните меньший фрагмент в файл.
+Refresh provider availability, versions, auth state, and model metadata.	Обновлять доступность провайдеров, версии, состояние аутентификации и метаданные моделей.
+Refresh provider status, versions, and models in the background. Set to 0 to disable.	Обновлять статус провайдеров, версии и модели в фоне. 0 — отключить.
+Refresh remote branches in the background. Set to 0 to avoid automatic Git prompts.	Обновлять удалённые ветки в фоне. 0 — чтобы не появлялись автоматические запросы Git.
+Refresh the provider and start the authentication flow again.	Обновите провайдера и снова начните аутентификацию.
+Relay client installation was cancelled.	Установка клиента ретрансляции отменена.
+Remaining balance	Остаток баланса
+Remove “ultrathink” from your prompt to change effort.	Уберите «ultrathink» из промпта, чтобы изменить усилие.
+Remove attachments before choosing automatic routing, then attach them on the selected machine.	Удалите вложения перед выбором автоматической маршрутизации, затем прикрепите их на выбранной машине.
+Remove deletes the imported copy from this list; the original profile and upgrade backup are kept.	«Удалить» убирает импортированную копию из этого списка; исходный профиль и резервная копия обновления сохраняются.
+Remove it or re-add it to include terminal output.	Удалите или добавьте снова, чтобы включить вывод терминала.
+Remove recognized agent credit lines from GitHub merge and squash messages, keeping human co-authors. Includes auto-merge. Excludes merge queues, stack merges, and existing commits.	Удалять строки с упоминанием агента из сообщений слияния и squash на GitHub, сохраняя соавторов-людей. Включая автослияние. Не затрагивает очереди слияния, слияния стеков и существующие коммиты.
+Remove shortcut…	Удалить сочетание клавиш…
+Remove some text or an attachment, then paste again.	Удалите часть текста или вложение и вставьте снова.
+Remove unused worktrees when active or archived threads are deleted. Worktrees with local changes are kept.	Удалять неиспользуемые рабочие деревья при удалении активных или архивных тредов. Рабочие деревья с локальными изменениями сохраняются.
+Remove worktrees after their threads have been inactive for this many days. Branches and thread history are kept.	Удалять рабочие деревья после стольких дней неактивности их тредов. Ветки и история тредов сохраняются.
+Remove worktrees whose pull request is merged and whose commits are included in the default branch.	Удалять рабочие деревья, pull request которых слит и чьи коммиты вошли в ветку по умолчанию.
+Remove worktrees with no commits beyond the default branch.	Удалять рабочие деревья без коммитов сверх ветки по умолчанию.
+Request failed.	Запрос не выполнен.
+Require a second click on the inline archive action before a thread is archived.	Требовать второй клик по встроенному действию архивации, прежде чем тред будет архивирован.
+Requires a matching provider connection. This replaces the selected draft’s model options. Permissions stay unchanged and no message is sent.	Требуется подходящее подключение провайдера. Это заменяет параметры модели выбранного черновика. Разрешения не меняются, сообщение не отправляется.
+Reset automatic pull to off	Вернуть автоматический pull в «выкл»
+Reset to inherited value	Сбросить к унаследованному значению
+Reset to last selected	Сбросить к последнему выбранному
+Response streaming	Потоковый вывод ответа
+Restore this prompt in the environment that received its files.	Восстановите этот запрос в среде, получившей его файлы.
+Restoring your threads…	Восстановление ваших тредов…
+Resume agent-owned conversations as DeepAI chats.	Продолжайте беседы, созданные агентами, как чаты DeepAI.
+Resume usage-limit stops at the reported reset time. Each thread can cancel its scheduled continuation.	Возобновлять остановки из-за лимита использования в сообщённое время сброса. Каждый тред может отменить запланированное продолжение.
+Return to the original draft and send or clear its current prompt before restoring.	Вернитесь к исходному черновику и отправьте или очистите его текущий запрос, прежде чем восстанавливать.
+Review what runs on this environment before using simulators and emulators.	Просмотрите, что выполняется в этой среде, прежде чем использовать симуляторы и эмуляторы.
+Review your usage settings in ChatGPT to continue.	Проверьте настройки использования в ChatGPT, чтобы продолжить.
+Rewind chat to before this message. Your prompt and attachments return to the composer.	Вернуть чат к состоянию до этого сообщения. Ваш запрос и вложения вернутся в поле ввода.
+Rich text composer	Поле ввода с форматированием
+Rotate to…	Повернуть к…
+Run a prompt automatically — on an interval, at a fixed time, or when a webhook is called.	Запускать промпт автоматически — по интервалу, в фиксированное время или при вызове вебхука.
+Run at a fixed local wall-clock time on selected weekdays.	Запускать в фиксированное местное время по выбранным дням недели.
+Run in the thread's worktree when the thread settles	Запускать в рабочем дереве треда, когда тред завершается
+Run it in a terminal when you are ready to update.	Выполните это в терминале, когда будете готовы обновиться.
+Run only the WSL backend. DeepAI Code restarts when this changes.	Запускать только бэкенд WSL. DeepAI Code перезапустится при изменении.
+Run repeatedly after a fixed number of milliseconds.	Запускать повторно через фиксированное число миллисекунд.
+Run the selected WSL distro alongside Windows. Projects remain on their current filesystem.	Запускать выбранный дистрибутив WSL рядом с Windows. Проекты остаются в своей текущей файловой системе.
+Run when the task's webhook URL receives a request.	Запускать, когда URL вебхука задачи получает запрос.
+Save your work, then sign out and back in. Your setup will be waiting here.	Сохраните работу, затем выйдите и войдите снова. Ваша настройка будет ждать здесь.
+Saving…	Сохранение…
+Scoped to one repository, project, or workspace. Create it in that item's Bitbucket settings.	Привязан к одному репозиторию, проекту или рабочей области. Создайте его в настройках Bitbucket этого элемента.
+Screenshot capture failed. Try again.	Не удалось сделать снимок экрана. Повторите попытку.
+Search agents…	Поиск агентов…
+Search files…	Поиск файлов…
+Search fonts…	Поиск шрифтов…
+Search image files…	Поиск файлов изображений…
+Search project contents…	Поиск по содержимому проекта…
+Search…	Поиск…
+Select a live local server to open it in this browser tab.	Выберите работающий локальный сервер, чтобы открыть его в этой вкладке браузера.
+Select an existing thread or create a new one to get started.	Выберите существующий тред или создайте новый, чтобы начать.
+Send activity from this environment to your mobile clients for push notifications and Live Activities.	Отправлять активность из этой среды на ваши мобильные клиенты для push-уведомлений и Live Activities.
+Send activity to mobile notifications and Live Activities without Cloud connection.	Отправлять активность в мобильные уведомления и Live Activities без облачного подключения.
+Send shortcut	Сочетание клавиш отправки
+Sending is unavailable right now. Finish the current action, then send.	Сейчас отправка недоступна. Завершите текущее действие, затем отправьте.
+Sensitive values are stored separately and never returned to the app.	Чувствительные значения хранятся отдельно и никогда не возвращаются в приложение.
+Server update failed.	Не удалось обновить сервер.
+Set how wide messages and the composer can grow on large screens.	Задайте, насколько широкими могут становиться сообщения и поле ввода на больших экранах.
+Set whether the diff panel ignores whitespace-only edits by default.	Задайте, игнорирует ли панель различий правки только пробелов по умолчанию.
+Share what you’re building, get help, and report bugs on Discord.	Рассказывайте, что вы создаёте, получайте помощь и сообщайте об ошибках в Discord.
+Show a toast when another thread finishes, fails, or needs input or approval while this app has focus.	Показывать уведомление, когда другой тред завершается, даёт сбой или ждёт ввода или подтверждения, пока приложение в фокусе.
+Show context usage and remaining capacity in the thread details menu.	Показывать использование контекста и оставшийся объём в меню сведений о треде.
+Show diffs stacked or side by side. The toggle in the diff toolbar changes this too.	Показывать различия стопкой или рядом. Переключатель на панели различий меняет это тоже.
+Show pressed keys and shortcuts in new recordings. Password fields are excluded.	Показывать нажатые клавиши и сочетания в новых записях. Поля паролей исключены.
+Show the floating preview when an agent opens a browser or device unless the agent says otherwise.	Показывать плавающее превью, когда агент открывает браузер или устройство, если агент не указал иное.
+Showing the full value instead.	Показано полное значение.
+Showing the source response. The saved quote is unchanged.	Показан исходный ответ. Сохранённая цитата не изменена.
+Sign in to DeepAI before previewing account-owned drafts.	Войдите в DeepAI, прежде чем просматривать черновики аккаунта.
+Sign in to DeepAI on this desktop to prepare a resumable working copy.	Войдите в DeepAI на этом компьютере, чтобы подготовить возобновляемую рабочую копию.
+Sign in to DeepAI to copy an owned archive into a new local draft.	Войдите в DeepAI, чтобы скопировать собственный архив в новый локальный черновик.
+Sign in to T3 Connect before deregistering an environment.	Войдите в T3 Connect, прежде чем отменять регистрацию среды.
+Sign in to T3 Connect before loading relay data.	Войдите в T3 Connect, прежде чем загружать данные ретрансляции.
+Snooze usage-limit stops until the reported reset time. Combine with auto-resume to continue when they wake.	Откладывать остановки из-за лимита использования до сообщённого времени сброса. Сочетайте с автопродолжением, чтобы продолжить при пробуждении.
+Source control action failed.	Не удалось выполнить действие контроля версий.
+Source control writing style	Стиль текста контроля версий
+SSH password prompt failed.	Не удалось выполнить запрос пароля SSH.
+Start the matching WSL backend, then choose the folder again.	Запустите подходящий бэкенд WSL и снова выберите папку.
+Start with files expanded or collapsed when opening diffs or a pull request's Code tab.	Начинать с развёрнутых или свёрнутых файлов при открытии различий или вкладки кода pull request.
+Still bringing a pasted attachment into this message.	Всё ещё добавляется вставленное вложение в это сообщение.
+Sync includes chats using your own API keys or subscriptions. Turning it off stops future uploads; existing cloud copies remain. Chats created before sign-in or without a known account stay local.	Синхронизация включает чаты с вашими ключами API или подписками. Отключение останавливает будущие загрузки; существующие облачные копии остаются. Чаты, созданные до входа или без известного аккаунта, остаются локальными.
+System	Система
+System default follows your browser or OS clock preference.	Системный вариант следует настройке времени вашего браузера или ОС.
+Tab size for you and agents. Fill fits the panel; other sizes show the device toolbar.	Размер вкладки для вас и агентов. «Заполнить» вписывается в панель; другие размеры показывают панель устройства.
+Table limited to the first 100 rows and 30 columns. Switch to source for the rest.	Таблица ограничена первыми 100 строками и 30 столбцами. Переключитесь на исходник, чтобы увидеть остальное.
+Terminal output, independent from code blocks and diffs.	Вывод терминала, отдельно от блоков кода и различий.
+Terminal write failed	Не удалось записать в терминал
+Text	Текст
+Text generation model	Модель генерации текста
+That theme could not be added.	Не удалось добавить эту тему.
+That theme file is invalid.	Этот файл темы недопустим.
+The ACP could not be prepared.	Не удалось подготовить ACP.
+The ACP operation failed.	Операция ACP не удалась.
+The agent can only read threads on its own server.	Агент может читать только треды на своём сервере.
+The agent will continue toward this objective in this chat. Each turn uses this chat’s saved model and connection. Approval settings and provider limits still apply.	Агент продолжит двигаться к этой цели в этом чате. Каждый ход использует сохранённые модель и подключение этого чата. Настройки подтверждений и лимиты провайдера по-прежнему действуют.
+The app or capture backend did not provide verified accessibility data.	Приложение или бэкенд снимков не предоставил проверенные данные о специальных возможностях.
+The attachment is unavailable.	Вложение недоступно.
+The authentication request expired.	Срок запроса аутентификации истёк.
+The browser may claim some shortcuts first. The desktop app receives them all.	Браузер может перехватить некоторые сочетания клавиш первым. Приложение для компьютера получает их все.
+The checkout could not be moved onto the pull request's latest commits, so the code there is older than the pull request. Uncommitted work or local commits keep it where it is.	Не удалось перенести checkout на последние коммиты pull request, поэтому код там старше pull request. Незакоммиченная работа или локальные коммиты оставляют его на месте.
+The chosen login is no longer signed in, so the active gh login is used.	Выбранный вход больше не действителен, поэтому используется активный вход gh.
+The color scheme pages are told to prefer. System follows your OS setting.	Цветовая схема, которую предпочитают страницы. «Система» следует настройке ОС.
+The composer is busy; try again once it is ready.	Поле ввода занято; повторите, когда оно будет готово.
+The DeepAI Code GNOME extension lets you capture other windows and bring them into your draft. Sign out once after installing.	Расширение GNOME для DeepAI Code позволяет снимать другие окна и добавлять их в черновик. После установки один раз выйдите из сессии.
+The diagram could not be rendered.	Не удалось отрисовать диаграмму.
+The environment did not respond to the PR request.	Среда не ответила на запрос PR.
+The environment HTTP connection is not ready.	HTTP-подключение к среде не готово.
+The environment is saved and will reconnect on app startup.	Среда сохранена и переподключится при запуске приложения.
+The environment rejected the renewed session authorization.	Среда отклонила обновлённую авторизацию сессии.
+The environment request failed.	Запрос среды не удался.
+The environment URL is invalid.	URL среды недопустим.
+The environment was removed.	Среда удалена.
+The extension isn't ready yet. Try again in a moment.	Расширение ещё не готово. Повторите через мгновение.
+The file could not be loaded. It may have been moved or deleted.	Не удалось загрузить файл. Возможно, он перемещён или удалён.
+The goal could not be saved. Please check its status before trying again.	Не удалось сохранить цель. Проверьте её статус, прежде чем повторять.
+The host withheld part of this diff — a binary file, or a change too large to inline.	Хост не показал часть этого diff — бинарный файл или слишком большое изменение для встраивания.
+The hosts were searched for it. Try fewer words, or search by number, author or branch.	Хосты проверены. Попробуйте меньше слов или ищите по номеру, автору или ветке.
+The hub's management key is deleted from this server. Its accounts leave the Limits view; the hub itself is untouched. Add it again with the URL and key to bring them back.	Ключ управления хабом удаляется с этого сервера. Его аккаунты исчезают из вида «Лимиты»; сам хаб не затрагивается. Добавьте его снова по URL и ключу, чтобы вернуть их.
+The integrated browser is unavailable in this runtime.	Встроенный браузер недоступен в этой среде выполнения.
+The keybinding was not removed.	Сочетание клавиш не удалено.
+The keybinding was not saved.	Сочетание клавиш не сохранено.
+The keybindings file was not opened.	Файл сочетаний клавиш не открыт.
+The license manifest could not load.	Не удалось загрузить манифест лицензий.
+The media action failed.	Медиа-действие не удалось.
+The pairing details are invalid.	Данные сопряжения недействительны.
+The preview could not be opened.	Не удалось открыть превью.
+The process is not a child of the DeepAI server. It might already have exited.	Процесс не является дочерним для сервера DeepAI. Возможно, он уже завершился.
+The project config in this checkout fails to parse, so every action and icon it declares is ignored. Check the JSON syntax and icon values.	Конфигурация проекта в этом checkout не разбирается, поэтому все объявленные в ней действия и значки игнорируются. Проверьте синтаксис JSON и значения значков.
+The project move failed.	Не удалось переместить проект.
+The prompt was stashed, but browser storage rejected its images. They will be missing if you reload.	Запрос отложен, но хранилище браузера отклонило его изображения. После перезагрузки их не будет.
+The provider update command could not be started.	Не удалось запустить команду обновления провайдера.
+The relay client install completed without a final status.	Установка клиента ретрансляции завершилась без итогового статуса.
+The request failed.	Запрос не удался.
+The resource monitor retry failed.	Не удалось повторно запустить монитор ресурсов.
+The save failed. Try reconnecting and saving again.	Не удалось сохранить. Переподключитесь и сохраните снова.
+The settings update failed.	Не удалось обновить настройки.
+The shared name for this project group in the sidebar and thread lists.	Общее название этой группы проектов на боковой панели и в списках тредов.
+The sign-in could not continue.	Не удалось продолжить вход.
+The stash holds 20 prompts; the oldest was removed to make room.	В буфере 20 запросов; самый старый удалён, чтобы освободить место.
+The T3 Connect session token is unavailable.	Токен сессии T3 Connect недоступен.
+The task is in the composer — read it over, then send.	Задача в поле ввода — перечитайте и отправьте.
+Theos are spent per minute of active session time at a rate set by the model and reasoning effort. Models priced at zero do not consume Theos.	Theos расходуются за минуту активной сессии по ставке, зависящей от модели и усилия рассуждений. Модели с нулевой ценой Theos не расходуют.
+This app connects to DeepAI Code running on your computer or a server. Start the DeepAI Code desktop app or command-line server on that machine and keep it running.	Это приложение подключается к DeepAI Code, запущенному на вашем компьютере или сервере. Запустите приложение DeepAI Code для компьютера или серверную версию из командной строки на той машине и не закрывайте её.
+This change has more files than the host will report ticks for in one read, so the count is short and some boxes below start empty.	В этом изменении больше файлов, чем хост сообщает отметок за одно чтение, поэтому счётчик неполный, а некоторые флажки ниже изначально пусты.
+This chat won’t fit	Этот чат не поместится
+This checkout is no longer available in the selected project and environment.	Этот checkout больше недоступен в выбранном проекте и среде.
+This client can create or revoke access for other devices.	Этот клиент может создавать и отзывать доступ для других устройств.
+This comes with risks like loss or exposure of sensitive data and prompt injection. You can turn this off anytime.	Это сопряжено с рисками, такими как потеря или раскрытие конфиденциальных данных и внедрение промптов. Вы можете выключить это в любой момент.
+This connection can create access links but cannot view authorized clients.	Это подключение может создавать ссылки доступа, но не может просматривать авторизованных клиентов.
+This connection can no longer remove worktrees.	Это подключение больше не может удалять рабочие деревья.
+This connection can view keybindings but cannot change them.	Это подключение может просматривать сочетания клавиш, но не может их менять.
+This connection cannot change environment settings.	Это подключение не может менять настройки среды.
+This connection cannot change keyboard shortcuts.	Это подключение не может менять сочетания клавиш.
+This connection cannot change one or more selected threads.	Это подключение не может менять один или несколько выбранных тредов.
+This connection cannot change source control.	Это подключение не может менять систему контроля версий.
+This connection cannot change the thread's branch.	Это подключение не может менять ветку треда.
+This connection cannot change threads.	Это подключение не может менять треды.
+This connection cannot manage provider accounts. View provider settings for update details.	Это подключение не может управлять аккаунтами провайдеров. Подробности обновления смотрите в настройках провайдера.
+This connection cannot open an editor on this environment.	Это подключение не может открыть редактор в этой среде.
+This connection lacks permission to change these settings.	У этого подключения нет разрешения менять эти настройки.
+This connection needs permission to write source control and add projects.	Этому подключению нужно разрешение на запись в систему контроля версий и добавление проектов.
+This connection still uses the old permissions, so some actions may no longer be available. Pair again using a new link with the permissions you need.	Это подключение всё ещё использует старые разрешения, поэтому некоторые действия могут быть недоступны. Выполните сопряжение заново по новой ссылке с нужными разрешениями.
+This context is no longer available.	Этот контекст больше недоступен.
+This context is no longer available. Remove it or attach it again.	Этот контекст больше недоступен. Удалите его или прикрепите снова.
+This draft no longer points to an available project.	Этот черновик больше не указывает на доступный проект.
+This driver has no required configuration. You can add the instance now.	Этому драйверу не нужна обязательная настройка. Экземпляр можно добавить сейчас.
+This file can’t be shown here	Этот файл здесь показать нельзя
+This file has been pushed to since you marked it viewed.	В этот файл вносились изменения после того, как вы отметили его просмотренным.
+This file needs its own application to view or edit.	Для просмотра или правки этого файла нужно отдельное приложение.
+This forgets its pairing, credentials, and cached threads here.	Это стирает сопряжение, учётные данные и кэшированные треды здесь.
+This interval is configured here, then the shared Background activity policy decides whether provider probes may run when the timer fires. Custom intervals appear as Advanced in General settings.	Этот интервал настраивается здесь, а затем общая политика фоновой активности решает, могут ли запускаться проверки провайдеров по таймеру. Свои интервалы показываются как «Дополнительно» в общих настройках.
+This is a typical cost per model call, not a spending cap. One prompt and its subagents can make multiple calls. Actual charges depend on token usage; models priced at zero do not consume Theos.	Это типичная стоимость вызова модели, а не лимит расходов. Один запрос и его субагенты могут делать несколько вызовов. Фактические списания зависят от числа токенов; модели с нулевой ценой Theos не расходуют.
+This machine is on your Cloud connection account. Use it as a fallback route.	Эта машина привязана к вашему аккаунту облачного подключения. Используйте её как запасной маршрут.
+This preview exceeds the size limit. Changes shown are incomplete.	Это превью превышает лимит размера. Показанные изменения неполные.
+This provider does not allow switching models after a conversation has started.	Этот провайдер не позволяет менять модель после начала разговора.
+This redeems one credit on your account and clears the current rate-limit windows. It cannot be undone.	Это погашает один кредит на вашем аккаунте и сбрасывает текущие окна лимитов. Отменить нельзя.
+This replaces its installed variants, including any local edits. Variants no longer in the extension will be removed.	Это заменяет установленные варианты, включая локальные правки. Варианты, которых больше нет в расширении, будут удалены.
+This resource belongs to another chat. Open that chat before closing its tab.	Этот ресурс принадлежит другому чату. Откройте тот чат, прежде чем закрывать его вкладку.
+This shared policy gates background work such as Git refreshes and provider health probes after their individual intervals elapse.	Эта общая политика управляет фоновой работой, такой как обновление Git и проверки состояния провайдеров, после истечения их собственных интервалов.
+This site can’t be reached	Не удаётся получить доступ к сайту
+This task no longer exists or is outside the selected project scope.	Эта задача больше не существует или находится вне выбранной области проекта.
+This task uses a legacy interval below one minute. Saving updates it to at least one minute.	Эта задача использует устаревший интервал короче минуты. При сохранении он станет не меньше минуты.
+This thread does not have a workspace path to copy.	У этого треда нет пути рабочей области для копирования.
+This thread does not have a workspace path to save into.	У этого треда нет пути рабочей области для сохранения.
+This thread does not support switching providers after it has started.	Этот тред не поддерживает смену провайдера после начала.
+Time format	Формат времени
+To edit these settings, pair this connection with both View relay and Manage relay permissions.	Чтобы изменить эти настройки, выполните сопряжение этого подключения с разрешениями «Посмотреть ретранслятор» и «Управление ретранслятором».
+Tokens include DeepAI sessions on this device. Dollar amounts are API estimates, not your DeepAI bill; your account menu shows your Theos balance.	Токены включают сессии DeepAI на этом устройстве. Суммы в долларах — оценки API, а не ваш счёт DeepAI; баланс Theos виден в меню аккаунта.
+Tool output image	Изображение из вывода инструмента
+Tools update automatically on this host when needed.	Инструменты обновляются на этом хосте автоматически при необходимости.
+Total CPU across live child processes of the current server process. The desktop shell and other parent processes are not included.	Суммарная загрузка CPU живых дочерних процессов текущего процесса сервера. Оболочка рабочего стола и другие родительские процессы не включены.
+Total resident memory across live child processes of the current server process. The desktop shell and other parent processes are not included.	Суммарная резидентная память живых дочерних процессов текущего процесса сервера. Оболочка рабочего стола и другие родительские процессы не включены.
+Totals are partial while selected environments scan.	Итоги неполные, пока выбранные среды сканируются.
+Try a model that supports images, or start a text-only chat. Images from earlier messages and tool results can also be part of the request.	Попробуйте модель с поддержкой изображений или начните чат только с текстом. Изображения из прошлых сообщений и результатов инструментов тоже могут входить в запрос.
+Try again from the project, or open a thread first.	Повторите из проекта или сначала откройте тред.
+Try again. The deletion could not be saved on this device.	Повторите попытку. Удаление не удалось сохранить на этом устройстве.
+Try citing the selection after the connection or pending input is resolved.	Попробуйте процитировать выделенное после того, как подключение или ожидающий ввод будут разрешены.
+Try reinstalling the capture helper, then check again.	Попробуйте переустановить помощник снимков и проверьте снова.
+Try the capture again.	Повторите снимок.
+Tune the shared power policy and the background intervals that feed it.	Настройте общую политику питания и фоновые интервалы, которые на неё влияют.
+Turn diffs are unavailable because this project is not a git repository.	Различия по ходам недоступны, потому что этот проект не является репозиторием git.
+Type a URL above, or run a dev script. Browser-ready localhost servers will show up here automatically.	Введите URL выше или запустите dev-скрипт. Серверы localhost, готовые для браузера, появятся здесь автоматически.
+Unable to load audio.	Не удалось загрузить аудио.
+Unable to load folder.	Не удалось загрузить папку.
+Unable to open logs folder.	Не удалось открыть папку логов.
+Unable to open path	Не удалось открыть путь
+Under pace: headroom left for the rest of the window	Ниже темпа: запас на оставшуюся часть окна
+Unknown error opening file.	Неизвестная ошибка при открытии файла.
+Unknown error removing project.	Неизвестная ошибка при удалении проекта.
+Unknown reason	Неизвестная причина
+Unknown socket error	Неизвестная ошибка сокета
+Update check failed.	Не удалось проверить обновления.
+Update DeepAI Code to finish setting up your shortcut.	Обновите DeepAI Code, чтобы завершить настройку вашего сочетания клавиш.
+Update failed. Check this host's network connection and try again.	Не удалось обновить. Проверьте сетевое подключение этого хоста и повторите.
+Update the desktop app on that machine to update this server.	Обновите приложение для компьютера на той машине, чтобы обновить этот сервер.
+Update the selected environments to use storage cleanup, or choose a machine that supports it.	Обновите выбранные среды, чтобы использовать очистку хранилища, или выберите машину, которая её поддерживает.
+Update the selected machines to configure project worktree cleanup.	Обновите выбранные машины, чтобы настроить очистку рабочих деревьев проекта.
+Update the server and control environment processes.	Обновление сервера и управление процессами среды.
+Update track change failed.	Не удалось сменить канал обновлений.
+Updating…	Обновление…
+Upload failed	Не удалось загрузить
+Usage analytics are disabled in DeepAI Code. For data handling details, see our	Аналитика использования в DeepAI Code отключена. Подробности об обработке данных см. в нашей
+Use arrow keys to adjust the focused value. Hold Shift for larger steps. Use Home and End for the minimum and maximum. Press Tab to move between saturation and brightness.	Используйте стрелки, чтобы менять значение в фокусе. Удерживайте Shift для больших шагов. Home и End — минимум и максимум. Tab переключает между насыщенностью и яркостью.
+Use Conventional Commit prefixes and keep change request text concise.	Использовать префиксы Conventional Commit и писать текст запросов на изменения кратко.
+Use local SSH config, agent, and tunnels for the backend.	Использовать локальную конфигурацию SSH, агент и туннели для бэкенда.
+Use SSH keys to avoid repeated password prompts on new SSH sessions.	Используйте ключи SSH, чтобы не вводить пароль при каждой новой сессии SSH.
+Use Take snapshot from the command palette to choose a window.	Используйте «Сделать снимок» в палитре команд, чтобы выбрать окно.
+Use the repository's template for change request descriptions when available.	Использовать шаблон репозитория для описаний запросов на изменения, если он есть.
+Use thinner grayscale text smoothing instead of the macOS default.	Использовать более тонкое сглаживание текста в оттенках серого вместо стандартного в macOS.
+Use your instructions for change descriptions and change requests in every project.	Использовать ваши инструкции для описаний изменений и запросов на изменения в каждом проекте.
+Used for thread titles and other generated text on connected devices with this provider. Source control can override it.	Используется для названий тредов и другого сгенерированного текста на подключённых устройствах с этим провайдером. Контроль версий может это переопределить.
+Uses the custom binary path below. Installation keeps that path.	Использует свой путь к бинарному файлу ниже. Установка сохраняет этот путь.
+Uses your Atlassian account, so it reaches every repository you can. Give it read and write access to repositories and pull requests, and read:user:bitbucket.	Использует ваш аккаунт Atlassian, поэтому доступны все ваши репозитории. Дайте доступ на чтение и запись к репозиториям и pull request'ам, а также read:user:bitbucket.
+Using CURSOR_API_KEY. Remove it from this provider's environment to use browser sign-in.	Используется CURSOR_API_KEY. Удалите его из окружения этого провайдера, чтобы использовать вход через браузер.
+Validating the pairing link and preparing your session.	Проверка ссылки сопряжения и подготовка вашей сессии.
+Verify the backend is reachable from this browser, supports CORS for hosted clients, and is served over HTTPS when opening this page from HTTPS.	Проверьте, что бэкенд доступен из этого браузера, поддерживает CORS для размещённых клиентов и отдаётся по HTTPS, если эта страница открыта по HTTPS.
+View usage in ChatGPT with your connected account.	Посмотрите использование в ChatGPT через подключённый аккаунт.
+Wait for file uploads before stashing this prompt	Дождаться загрузки файлов перед откладыванием этого запроса
+Wait for saving to finish, or resolve the file's save error before closing it.	Дождитесь завершения сохранения или устраните ошибку сохранения файла, прежде чем закрывать его.
+Wait until this chat’s active and queued work has settled before importing archive state.	Дождитесь, пока завершится активная и поставленная в очередь работа этого чата, прежде чем импортировать состояние архива.
+Waiting for device video…	Ожидание видео с устройства…
+Watching: the agent wakes when checks finish, someone comments, or the branch conflicts	Наблюдение: агент проснётся, когда завершатся проверки, кто-то оставит комментарий или у ветки возникнет конфликт
+Watching: the agent wakes when checks finish, someone comments, or the branch conflicts. Click to stop.	Наблюдение: агент проснётся, когда завершатся проверки, кто-то оставит комментарий или у ветки возникнет конфликт. Нажмите, чтобы остановить.
+Where links in the chat and terminal open. Hold ⌘ or Ctrl while clicking a link to open it in your default browser either way.	Где открываются ссылки в чате и терминале. Удерживайте ⌘ или Ctrl при клике, чтобы в любом случае открыть ссылку в браузере по умолчанию.
+Windows-style paths are only supported on Windows.	Пути в стиле Windows поддерживаются только в Windows.
+Workspace query failed.	Не удалось выполнить запрос к рабочей области.
+Worktree location	Расположение рабочих деревьев
+Wrap long lines in code blocks, tables, diffs, and file previews by default.	По умолчанию переносить длинные строки в блоках кода, таблицах, различиях и превью файлов.
+Write something …	Напишите что-нибудь …
+Write the instructions each selected environment should use.	Напишите инструкции, которые должна использовать каждая выбранная среда.
+WSL is unavailable, so Windows is running instead. Turn WSL off to clear this preference.	WSL недоступен, поэтому работает Windows. Выключите WSL, чтобы сбросить это предпочтение.
+You are signed out of its sites. Server browser tabs open in this profile close now.	Вы вышли из его сайтов. Вкладки серверного браузера, открытые в этом профиле, закрываются сейчас.
+You can use either platform. Fixing a missing platform does not block the other one.	Можно использовать любую платформу. Исправление отсутствующей платформы не блокирует другую.
+You have uncommitted changes. They'll carry over to the other branch, or block the switch if they conflict.	У вас есть незакоммиченные изменения. Они перейдут на другую ветку или заблокируют переключение при конфликте.
+You’ve reached the profile limit	Вы достигли лимита профилей
+Your conversation is saved. Reconnect this provider, then retry your message.	Ваша беседа сохранена. Переподключите этого провайдера и повторите сообщение.
+Your desktop doesn't support automatic capture. You'll choose the window to capture instead.	Ваш компьютер не поддерживает автоматический снимок. Вместо этого вы выберете окно для снимка.
+Your newer draft is unchanged. Restore the failed prompt when this composer is empty.	Ваш более новый черновик не изменён. Восстановите неудавшийся запрос, когда это поле ввода пусто.
+Your newer draft is unchanged. Return to this chat with an empty composer to restore the unsent message.	Ваш более новый черновик не изменён. Вернитесь в этот чат с пустым полем ввода, чтобы восстановить неотправленное сообщение.
+Your prompt contains "ultrathink" in the text. Remove it to change this option.	Ваш запрос содержит «ultrathink» в тексте. Удалите его, чтобы изменить этот параметр.

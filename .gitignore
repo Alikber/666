@@ -1,0 +1,7 @@
+# never commit app files or build output
+*.asar
+server-new/
+server/
+app/
+assets-original/
+*.backup-*
